@@ -1,0 +1,38 @@
+ITERATIONS = 1000
+TIME_STEP = 1e-6
+VACANCY_SEARCH_DISTANCE = 10
+
+INCLUDE_FILE = "initialization.mdl"
+INCLUDE_FILE = "molecules.mdl"
+INCLUDE_FILE = "surface_classes.mdl"
+
+INCLUDE_FILE = "geometry8.mdl"
+INCLUDE_FILE = "mod_surf_regions.mdl"
+
+INSTANTIATE mfb OBJECT
+{
+  boxes OBJECT boxes {}
+
+  /*relBig RELEASE_SITE
+  {
+   SHAPE = mfb.boxes.big_box
+   MOLECULE = Ca
+   CONCENTRATION = 1e-7
+   RELEASE_PROBABILITY = 1
+  }*/
+
+  relCa RELEASE_SITE
+  {
+   SHAPE = mfb.boxes.box_000
+   MOLECULE = Ca
+   CONCENTRATION = 1000e-6
+   RELEASE_PROBABILITY = 1
+  }
+
+}
+
+sprintf(seed,"%05g",SEED)
+
+//INCLUDE_FILE = "viz_output.mdl"
+INCLUDE_FILE = "rxn_output.mdl"
+

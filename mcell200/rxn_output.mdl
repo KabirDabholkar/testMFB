@@ -1,0 +1,12 @@
+REACTION_DATA_OUTPUT
+{
+  STEP=1e-5
+  {COUNT[Ca, mfb.boxes.box_000]} =>  "./react_data/seed_" & seed & "/0-0-0.dat"
+  {COUNT[Ca, mfb.boxes.box_001]} =>  "./react_data/seed_" & seed & "/0-0-1.dat"
+  {COUNT[Ca, mfb.boxes.box_010]} =>  "./react_data/seed_" & seed & "/0-1-0.dat"
+  {COUNT[Ca, mfb.boxes.box_011]} =>  "./react_data/seed_" & seed & "/0-1-1.dat"
+  {COUNT[Ca, mfb.boxes.box_100]} =>  "./react_data/seed_" & seed & "/1-0-0.dat"
+  {COUNT[Ca, mfb.boxes.box_101]} =>  "./react_data/seed_" & seed & "/1-0-1.dat"
+  {COUNT[Ca, mfb.boxes.box_110]} =>  "./react_data/seed_" & seed & "/1-1-0.dat"
+  {COUNT[Ca, mfb.boxes.box_111]} =>  "./react_data/seed_" & seed & "/1-1-1.dat"
+}
