@@ -88,7 +88,7 @@ def create_all_boxes(lines,big_box_size):
     for line in lines:
     	boxes=gen_boxes(line)
         for box in boxes:
-            box_name=str(int(box[0]))+"-"+str(int(box[1]))+"-"+str(int(box[2]))
+            box_name="b"+str(int(box[0]))+"_"+str(int(box[1]))+"_"+str(int(box[2]))
             box*=unit
 	    BOXES[box_name]=box
     big_box=np.array([-delta,-delta,-delta,big_box_size[0]+delta,big_box_size[1]+delta,big_box_size[2]+delta])

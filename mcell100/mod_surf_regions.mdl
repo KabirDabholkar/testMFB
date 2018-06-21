@@ -1,3746 +1,3314 @@
 MODIFY_SURFACE_REGIONS
 {
-  23-16-0[ALL]
+  b14_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-13-1[ALL]
+  b14_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-13-0[ALL]
+  b14_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-18-2[ALL]
+  b23_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-18-1[ALL]
+  b23_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-18-0[ALL]
+  b23_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-14-2[ALL]
+  b23_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-14-0[ALL]
+  b17_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-14-1[ALL]
+  b17_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-17-1[ALL]
+  b17_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-17-0[ALL]
+  b17_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-5-5[ALL]
+  b23_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-5-7[ALL]
+  b23_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-1-0[ALL]
+  b23_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-1-1[ALL]
+  b23_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-0-5[ALL]
+  b17_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-9-0[ALL]
+  b17_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-9-1[ALL]
+  b23_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-1-1[ALL]
+  b23_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-1-0[ALL]
+  b32_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-14-0[ALL]
+  b32_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-14-1[ALL]
+  b4_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-9-0[ALL]
+  b4_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-9-1[ALL]
+  b2_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-8-0[ALL]
+  b2_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-8-1[ALL]
+  b2_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-8-2[ALL]
+  b2_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-8-3[ALL]
+  b4_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-0-0[ALL]
+  b4_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-0-0[ALL]
+  b31_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-0-1[ALL]
+  b31_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-0-7[ALL]
+  b4_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-0-0[ALL]
+  b2_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-0-1[ALL]
+  b2_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-0-2[ALL]
+  b6_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-0-3[ALL]
+  b6_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-0-5[ALL]
+  b2_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-9-0[ALL]
+  b2_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-9-1[ALL]
+  b2_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-0-1[ALL]
+  b2_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-7-1[ALL]
+  b18_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-7-0[ALL]
+  b18_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-5-5[ALL]
+  b8_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-5-0[ALL]
+  b8_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-5-1[ALL]
+  b10_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-4-0[ALL]
+  b10_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-4-1[ALL]
+  b18_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-18-1[ALL]
+  b18_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-18-0[ALL]
+  b2_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-13-0[ALL]
+  b2_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-4-1[ALL]
+  b2_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-4-2[ALL]
+  b6_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-4-3[ALL]
+  b6_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-18-2[ALL]
+  b10_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-18-0[ALL]
+  b2_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-18-1[ALL]
+  b2_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-7-0[ALL]
+  b2_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-7-1[ALL]
+  b2_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-19-1[ALL]
+  b2_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-19-0[ALL]
+  b2_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-13-1[ALL]
+  b2_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-1-1[ALL]
+  b2_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-1-0[ALL]
+  b21_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-13-0[ALL]
+  b21_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-13-1[ALL]
+  b2_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-8-1[ALL]
+  b2_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-8-0[ALL]
+  b21_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-4-1[ALL]
+  b21_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-4-0[ALL]
+  b21_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-14-1[ALL]
+  b21_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-3-0[ALL]
+  b18_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-3-1[ALL]
+  b18_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-18-0[ALL]
+  b21_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-18-1[ALL]
+  b21_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-1-1[ALL]
+  b21_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-1-0[ALL]
+  b21_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-15-5[ALL]
+  b13_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-15-7[ALL]
+  b6_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-15-1[ALL]
+  b21_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-15-0[ALL]
+  b21_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-11-1[ALL]
+  b21_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-11-0[ALL]
+  b21_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-3-1[ALL]
+  b13_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-3-0[ALL]
+  b6_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-8-0[ALL]
+  b16_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-8-1[ALL]
+  b16_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-5-1[ALL]
+  b16_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-5-5[ALL]
+  b18_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-5-1[ALL]
+  b18_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-5-0[ALL]
+  b36_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-5-7[ALL]
+  b36_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-1-1[ALL]
+  b21_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-4-0[ALL]
+  b21_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-4-1[ALL]
+  b21_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-3-0[ALL]
+  b21_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-11-1[ALL]
+  b27_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-11-0[ALL]
+  b16_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-8-0[ALL]
+  b16_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-8-1[ALL]
+  b18_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-1-0[ALL]
+  b18_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-8-3[ALL]
+  b18_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-15-1[ALL]
+  b18_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-8-0[ALL]
+  b37_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-4-1[ALL]
+  b37_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-18-2[ALL]
+  b16_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-8-0[ALL]
+  b16_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-8-1[ALL]
+  b27_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-8-2[ALL]
+  b18_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-8-3[ALL]
+  b18_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-4-3[ALL]
+  b18_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-11-0[ALL]
+  b16_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-11-1[ALL]
+  b16_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-4-2[ALL]
+  b18_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-17-1[ALL]
+  b18_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-17-0[ALL]
+  b18_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-18-2[ALL]
+  b36_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-4-0[ALL]
+  b36_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-4-1[ALL]
+  b36_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-10-1[ALL]
+  b18_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-19-1[ALL]
+  b18_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-2-0[ALL]
+  b18_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-2-1[ALL]
+  b18_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-13-1[ALL]
+  b4_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-4-0[ALL]
+  b4_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-4-1[ALL]
+  b4_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-6-2[ALL]
+  b36_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-19-1[ALL]
+  b36_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-19-0[ALL]
+  b37_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-9-1[ALL]
+  b37_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-9-0[ALL]
+  b37_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-9-1[ALL]
+  b37_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-17-1[ALL]
+  b2_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-0-0[ALL]
+  b10_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-8-0[ALL]
+  b2_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-15-0[ALL]
+  b10_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-15-1[ALL]
+  b10_0_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-3-1[ALL]
+  b37_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-11-1[ALL]
+  b37_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-11-0[ALL]
+  b10_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-13-1[ALL]
+  b10_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-13-0[ALL]
+  b10_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-0-3[ALL]
+  b30_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-0-2[ALL]
+  b4_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-0-1[ALL]
+  b4_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-2-0[ALL]
+  b4_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-17-0[ALL]
+  b4_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-8-0[ALL]
+  b10_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-8-1[ALL]
+  b10_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-9-0[ALL]
+  b10_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-9-1[ALL]
+  b10_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-15-1[ALL]
+  b17_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-15-0[ALL]
+  b17_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-15-7[ALL]
+  b35_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-3-0[ALL]
+  b35_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-0-0[ALL]
+  b4_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-0-1[ALL]
+  b4_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-0-2[ALL]
+  b17_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-0-3[ALL]
+  b17_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-0-5[ALL]
+  b4_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-0-7[ALL]
+  b4_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-4-3[ALL]
+  b35_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-12-0[ALL]
+  b35_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-12-3[ALL]
+  b17_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-4-0[ALL]
+  b17_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-4-1[ALL]
+  b35_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-4-0[ALL]
+  b35_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-16-0[ALL]
+  b35_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-16-3[ALL]
+  b35_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-5-1[ALL]
+  b19_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-5-0[ALL]
+  b19_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-9-0[ALL]
+  b28_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-9-1[ALL]
+  b28_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-11-0[ALL]
+  b35_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-11-1[ALL]
+  b35_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-5-1[ALL]
+  b35_15_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-5-0[ALL]
+  b21_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-15-5[ALL]
+  b21_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-15-0[ALL]
+  b19_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-15-1[ALL]
+  b19_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-4-0[ALL]
+  b37_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-4-1[ALL]
+  b37_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-10-2[ALL]
+  b35_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-10-1[ALL]
+  b35_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-10-0[ALL]
+  b16_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-16-0[ALL]
+  b19_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-16-1[ALL]
+  b19_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-12-0[ALL]
+  b4_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-12-1[ALL]
+  b4_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-17-1[ALL]
+  b9_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-17-0[ALL]
+  b9_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-13-0[ALL]
+  b35_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-13-1[ALL]
+  b35_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-19-0[ALL]
+  b4_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-19-1[ALL]
+  b4_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-1-1[ALL]
+  b4_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-1-0[ALL]
+  b28_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-14-2[ALL]
+  b4_10_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-14-1[ALL]
+  b9_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-14-0[ALL]
+  b9_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-10-0[ALL]
+  b18_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-10-1[ALL]
+  b18_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-8-0[ALL]
+  b6_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-9-1[ALL]
+  b28_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-9-0[ALL]
+  b6_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-13-1[ALL]
+  b6_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-13-0[ALL]
+  b3_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-3-0[ALL]
+  b3_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-3-1[ALL]
+  b12_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-18-1[ALL]
+  b3_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-18-0[ALL]
+  b3_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-18-2[ALL]
+  b18_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-14-0[ALL]
+  b18_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-14-1[ALL]
+  b4_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-15-0[ALL]
+  b4_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-15-1[ALL]
+  b4_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-6-1[ALL]
+  b4_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-11-0[ALL]
+  b13_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-8-0[ALL]
+  b13_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-8-1[ALL]
+  b9_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-11-1[ALL]
+  b9_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-0-7[ALL]
+  b34_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-0-1[ALL]
+  b34_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-0-0[ALL]
+  b34_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-0-3[ALL]
+  b9_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-0-2[ALL]
+  b9_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-12-1[ALL]
+  b28_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-12-0[ALL]
+  b28_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-12-3[ALL]
+  b34_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-12-2[ALL]
+  b28_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-16-3[ALL]
+  b10_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-16-2[ALL]
+  b10_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-16-1[ALL]
+  b32_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-16-0[ALL]
+  b32_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-13-1[ALL]
+  b3_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-13-0[ALL]
+  b3_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-8-1[ALL]
+  b3_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-8-0[ALL]
+  b3_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-8-3[ALL]
+  b27_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-8-2[ALL]
+  b27_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-16-0[ALL]
+  b32_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-16-1[ALL]
+  b32_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-0-0[ALL]
+  b9_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-0-1[ALL]
+  b9_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-11-1[ALL]
+  b32_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-11-0[ALL]
+  b32_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-1-0[ALL]
+  b32_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-1-1[ALL]
+  b32_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-6-0[ALL]
+  b32_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-6-1[ALL]
+  b37_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-17-0[ALL]
+  b37_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-3-1[ALL]
+  b3_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-3-0[ALL]
+  b3_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-5-5[ALL]
+  b27_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-5-0[ALL]
+  b27_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-5-1[ALL]
+  b6_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-17-0[ALL]
+  b6_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-17-1[ALL]
+  b6_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-9-0[ALL]
+  b6_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-9-1[ALL]
+  b5_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-0-0[ALL]
+  b5_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-0-1[ALL]
+  b37_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-16-1[ALL]
+  b37_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-16-0[ALL]
+  b32_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-10-1[ALL]
+  b35_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-10-0[ALL]
+  b35_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-10-5[ALL]
+  b5_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-10-2[ALL]
+  b5_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-10-1[ALL]
+  b32_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-10-0[ALL]
+  b27_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-7-1[ALL]
+  b5_5_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-7-0[ALL]
+  b37_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-19-1[ALL]
+  b37_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-19-0[ALL]
+  b34_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-6-2[ALL]
+  b34_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-6-1[ALL]
+  b27_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-6-0[ALL]
+  b27_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-6-0[ALL]
+  b19_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-2-0[ALL]
+  b19_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-2-2[ALL]
+  b32_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-15-1[ALL]
+  b19_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-15-0[ALL]
+  b19_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-17-0[ALL]
+  b5_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-4-3[ALL]
+  b5_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-4-0[ALL]
+  b5_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-4-1[ALL]
+  b5_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-13-0[ALL]
+  b37_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-13-1[ALL]
+  b37_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-10-7[ALL]
+  b6_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-10-2[ALL]
+  b37_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-10-1[ALL]
+  b13_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-10-0[ALL]
+  b13_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-6-1[ALL]
+  b37_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-6-0[ALL]
+  b22_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-6-2[ALL]
+  b22_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-10-0[ALL]
+  b13_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-7-0[ALL]
+  b13_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-7-1[ALL]
+  b13_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-18-2[ALL]
+  b13_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-14-2[ALL]
+  b22_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-10-2[ALL]
+  b22_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-18-0[ALL]
+  b13_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-3-0[ALL]
+  b13_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-3-1[ALL]
+  b30_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-10-1[ALL]
+  b30_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-10-0[ALL]
+  b30_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-10-2[ALL]
+  b30_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-5-0[ALL]
+  b30_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-5-1[ALL]
+  b30_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-2-2[ALL]
+  b30_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-17-0[ALL]
+  b22_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-17-1[ALL]
+  b22_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-12-0[ALL]
+  b30_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-12-1[ALL]
+  b30_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-10-0[ALL]
+  b30_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-15-7[ALL]
+  b30_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-10-7[ALL]
+  b30_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-16-2[ALL]
+  b22_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-16-3[ALL]
+  b22_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-16-0[ALL]
+  b30_0_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-16-1[ALL]
+  b30_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-15-5[ALL]
+  b30_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-4-3[ALL]
+  b15_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-4-2[ALL]
+  b15_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-4-1[ALL]
+  b12_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-4-0[ALL]
+  b12_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-4-0[ALL]
+  b6_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-16-3[ALL]
+  b6_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-7-1[ALL]
+  b12_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-7-0[ALL]
+  b12_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-8-3[ALL]
+  b12_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-8-2[ALL]
+  b12_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-8-1[ALL]
+  b12_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-16-2[ALL]
+  b12_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-17-1[ALL]
+  b3_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-17-0[ALL]
+  b15_15_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-12-1[ALL]
+  b15_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-12-0[ALL]
+  b15_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-12-3[ALL]
+  b6_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-12-2[ALL]
+  b6_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-15-0[ALL]
+  b15_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-15-1[ALL]
+  b15_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-2-1[ALL]
+  b31_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-10-5[ALL]
+  b31_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-16-3[ALL]
+  b6_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-16-2[ALL]
+  b13_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-16-1[ALL]
+  b15_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-16-0[ALL]
+  b15_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-5-5[ALL]
+  b13_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-3-1[ALL]
+  b6_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-5-1[ALL]
+  b6_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-5-0[ALL]
+  b12_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-9-0[ALL]
+  b12_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-10-2[ALL]
+  b0_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-13-0[ALL]
+  b0_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-13-1[ALL]
+  b3_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-3-0[ALL]
+  b3_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-3-1[ALL]
+  b7_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-1-0[ALL]
+  b7_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-1-1[ALL]
+  b9_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-16-1[ALL]
+  b9_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-16-0[ALL]
+  b22_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-9-1[ALL]
+  b22_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-9-0[ALL]
+  b22_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-19-1[ALL]
+  b7_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-19-0[ALL]
+  b7_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-18-0[ALL]
+  b15_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-18-1[ALL]
+  b15_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-18-2[ALL]
+  b0_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-0-1[ALL]
+  b7_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-0-0[ALL]
+  b7_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-0-3[ALL]
+  b0_10_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-0-2[ALL]
+  b0_10_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-16-1[ALL]
+  b9_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-16-0[ALL]
+  b9_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-16-3[ALL]
+  b33_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-16-2[ALL]
+  b33_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-11-0[ALL]
+  b30_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-11-1[ALL]
+  b30_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-1-1[ALL]
+  b3_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-1-0[ALL]
+  b3_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-8-2[ALL]
+  b33_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-8-3[ALL]
+  b33_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-8-0[ALL]
+  b35_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-15-7[ALL]
+  b13_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-17-0[ALL]
+  b3_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-17-1[ALL]
+  b3_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-12-3[ALL]
+  b13_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-12-2[ALL]
+  b33_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-12-1[ALL]
+  b33_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-12-0[ALL]
+  b2_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-9-1[ALL]
+  b10_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-9-0[ALL]
+  b33_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-8-3[ALL]
+  b33_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-10-5[ALL]
+  b33_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-4-0[ALL]
+  b33_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-4-3[ALL]
+  b33_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-10-1[ALL]
+  b33_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-10-0[ALL]
+  b33_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-10-2[ALL]
+  b33_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-15-0[ALL]
+  b33_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-15-1[ALL]
+  b33_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-14-1[ALL]
+  b6_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-14-0[ALL]
+  b6_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-14-2[ALL]
+  b6_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-16-2[ALL]
+  b31_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-16-3[ALL]
+  b31_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-16-0[ALL]
+  b30_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-16-1[ALL]
+  b30_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-12-0[ALL]
+  b30_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-12-1[ALL]
+  b30_10_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-12-2[ALL]
+  b9_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-12-3[ALL]
+  b9_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-2-0[ALL]
+  b31_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-8-2[ALL]
+  b31_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-8-3[ALL]
+  b9_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-8-0[ALL]
+  b9_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-8-1[ALL]
+  b30_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-16-0[ALL]
+  b30_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-16-1[ALL]
+  b3_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-19-0[ALL]
+  b9_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-19-1[ALL]
+  b0_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-15-1[ALL]
+  b30_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-15-0[ALL]
+  b30_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-0-1[ALL]
+  b30_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-0-0[ALL]
+  b31_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-10-1[ALL]
+  b31_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-10-0[ALL]
+  b28_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-11-0[ALL]
+  b28_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-11-1[ALL]
+  b28_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-10-5[ALL]
+  b28_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-5-1[ALL]
+  b28_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-5-0[ALL]
+  b31_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-8-1[ALL]
+  b31_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-8-0[ALL]
+  b36_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-15-1[ALL]
+  b8_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-15-0[ALL]
+  b8_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-8-1[ALL]
+  b26_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-5-1[ALL]
+  b26_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-0-2[ALL]
+  b6_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-0-3[ALL]
+  b26_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-0-0[ALL]
+  b26_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-0-1[ALL]
+  b13_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-9-1[ALL]
+  b29_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-9-0[ALL]
+  b28_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-12-0[ALL]
+  b26_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-12-1[ALL]
+  b26_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-18-1[ALL]
+  b26_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-18-0[ALL]
+  b8_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-1-0[ALL]
+  b8_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-1-1[ALL]
+  b8_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-1-1[ALL]
+  b26_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-1-0[ALL]
+  b26_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-1-1[ALL]
+  b26_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-1-0[ALL]
+  b7_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-14-2[ALL]
+  b7_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-14-0[ALL]
+  b36_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-14-1[ALL]
+  b36_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-15-1[ALL]
+  b36_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-5-1[ALL]
+  b36_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-14-1[ALL]
+  b26_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-14-0[ALL]
+  b26_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-8-3[ALL]
+  b36_10_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-8-2[ALL]
+  b36_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-2-1[ALL]
+  b36_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-17-1[ALL]
+  b36_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-5-0[ALL]
+  b31_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-5-1[ALL]
+  b31_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-18-2[ALL]
+  b7_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-18-0[ALL]
+  b7_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-18-1[ALL]
+  b6_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-9-0[ALL]
+  b31_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-9-1[ALL]
+  b13_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-12-1[ALL]
+  b36_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-7-0[ALL]
+  b36_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-12-3[ALL]
+  b36_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-12-2[ALL]
+  b36_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-9-0[ALL]
+  b36_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-9-1[ALL]
+  b36_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-6-0[ALL]
+  b36_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-14-0[ALL]
+  b36_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-14-1[ALL]
+  b12_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-19-0[ALL]
+  b12_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-19-1[ALL]
+  b12_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-17-1[ALL]
+  b8_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-17-0[ALL]
+  b8_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-8-1[ALL]
+  b30_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-5-1[ALL]
+  b8_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-5-0[ALL]
+  b8_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-4-0[ALL]
+  b18_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-4-1[ALL]
+  b24_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-5-1[ALL]
+  b24_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-5-0[ALL]
+  b24_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-6-1[ALL]
+  b8_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-6-0[ALL]
+  b8_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-9-1[ALL]
+  b36_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-12-3[ALL]
+  b33_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-12-2[ALL]
+  b33_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-12-1[ALL]
+  b36_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-12-0[ALL]
+  b24_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-4-0[ALL]
+  b24_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-4-1[ALL]
+  b8_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-19-1[ALL]
+  b8_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-19-0[ALL]
+  b8_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-13-1[ALL]
+  b12_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-13-0[ALL]
+  b12_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-0-0[ALL]
+  b12_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-0-1[ALL]
+  b24_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-8-0[ALL]
+  b24_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-0-1[ALL]
+  b24_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-3-0[ALL]
+  b24_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-3-1[ALL]
+  b8_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-0-0[ALL]
+  b8_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-10-2[ALL]
+  b8_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-5-0[ALL]
+  b8_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-10-1[ALL]
+  b12_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-18-1[ALL]
+  b12_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-18-0[ALL]
+  b24_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-18-1[ALL]
+  b24_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-18-2[ALL]
+  b26_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-14-0[ALL]
+  b26_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-14-1[ALL]
+  b26_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-14-2[ALL]
+  b26_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-18-1[ALL]
+  b26_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-18-0[ALL]
+  b26_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-18-2[ALL]
+  b8_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-10-5[ALL]
+  b26_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-10-7[ALL]
+  b26_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-10-0[ALL]
+  b26_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-10-1[ALL]
+  b12_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-10-2[ALL]
+  b12_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-9-0[ALL]
+  b24_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-9-1[ALL]
+  b24_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-7-1[ALL]
+  b24_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-7-0[ALL]
+  b24_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-18-0[ALL]
+  b24_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-18-1[ALL]
+  b28_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-5-0[ALL]
+  b24_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-5-1[ALL]
+  b24_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-18-2[ALL]
+  b28_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-18-1[ALL]
+  b28_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-18-0[ALL]
+  b24_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-9-1[ALL]
+  b24_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-9-0[ALL]
+  b24_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-19-0[ALL]
+  b24_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-1-0[ALL]
+  b28_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-1-1[ALL]
+  b28_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-1-0[ALL]
+  b24_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-1-1[ALL]
+  b24_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-13-0[ALL]
+  b10_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-13-1[ALL]
+  b10_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-0-0[ALL]
+  b32_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-0-1[ALL]
+  b10_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-0-7[ALL]
+  b10_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-12-2[ALL]
+  b29_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-12-3[ALL]
+  b29_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-12-0[ALL]
+  b19_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-12-1[ALL]
+  b19_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-10-5[ALL]
+  b10_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-0-0[ALL]
+  b10_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-0-1[ALL]
+  b10_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-5-1[ALL]
+  b10_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-5-0[ALL]
+  b36_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-0-7[ALL]
+  b36_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-4-0[ALL]
+  b29_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-4-1[ALL]
+  b29_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-19-1[ALL]
+  b10_15_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-19-0[ALL]
+  b29_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-15-7[ALL]
+  b29_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-15-1[ALL]
+  b10_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-15-0[ALL]
+  b10_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-8-0[ALL]
+  b19_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-8-1[ALL]
+  b19_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-11-1[ALL]
+  b19_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-11-0[ALL]
+  b19_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-9-1[ALL]
+  b0_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-9-0[ALL]
+  b0_5_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-9-1[ALL]
+  b19_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-9-0[ALL]
+  b19_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-5-1[ALL]
+  b29_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-5-0[ALL]
+  b29_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-9-1[ALL]
+  b29_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-9-0[ALL]
+  b29_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-5-1[ALL]
+  b19_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-5-0[ALL]
+  b19_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-5-0[ALL]
+  b0_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-5-1[ALL]
+  b0_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-5-5[ALL]
+  b23_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-5-0[ALL]
+  b23_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-5-1[ALL]
+  b27_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-12-0[ALL]
+  b10_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-12-1[ALL]
+  b10_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-8-3[ALL]
+  b10_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-8-2[ALL]
+  b23_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-8-0[ALL]
+  b23_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-9-1[ALL]
+  b27_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-9-0[ALL]
+  b17_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-11-0[ALL]
+  b23_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-11-1[ALL]
+  b23_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-15-0[ALL]
+  b23_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-15-1[ALL]
+  b23_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-1-1[ALL]
+  b23_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-1-0[ALL]
+  b36_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-15-5[ALL]
+  b26_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-1-1[ALL]
+  b26_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-1-0[ALL]
+  b26_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-3-1[ALL]
+  b26_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-3-0[ALL]
+  b9_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-1-0[ALL]
+  b17_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-1-1[ALL]
+  b7_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-19-0[ALL]
+  b7_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-19-1[ALL]
+  b29_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-7-1[ALL]
+  b29_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-7-0[ALL]
+  b7_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-5-0[ALL]
+  b7_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-5-1[ALL]
+  b29_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-9-0[ALL]
+  b29_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-9-1[ALL]
+  b25_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-0-0[ALL]
+  b16_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-0-1[ALL]
+  b16_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-1-1[ALL]
+  b25_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-1-0[ALL]
+  b25_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-5-1[ALL]
+  b16_10_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-5-0[ALL]
+  b16_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-4-0[ALL]
+  b16_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-4-1[ALL]
+  b16_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-4-2[ALL]
+  b7_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-4-3[ALL]
+  b7_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-2-1[ALL]
+  b16_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-2-0[ALL]
+  b16_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-2-2[ALL]
+  b16_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-16-2[ALL]
+  b16_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-16-3[ALL]
+  b26_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-16-3[ALL]
+  b16_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-16-2[ALL]
+  b16_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-15-1[ALL]
+  b16_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-19-0[ALL]
+  b16_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-19-1[ALL]
+  b16_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-10-0[ALL]
+  b16_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-10-1[ALL]
+  b16_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-17-1[ALL]
+  b10_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-17-0[ALL]
+  b5_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-0-7[ALL]
+  b5_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-2-0[ALL]
+  b32_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-2-1[ALL]
+  b32_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-6-1[ALL]
+  b10_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-8-3[ALL]
+  b2_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-8-2[ALL]
+  b7_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-8-1[ALL]
+  b7_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-8-0[ALL]
+  b27_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-10-2[ALL]
+  b14_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-13-0[ALL]
+  b14_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-13-1[ALL]
+  b29_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-4-3[ALL]
+  b29_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-4-2[ALL]
+  b27_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-4-1[ALL]
+  b14_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-4-0[ALL]
+  b14_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-17-0[ALL]
+  b29_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-17-1[ALL]
+  b29_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-18-0[ALL]
+  b32_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-18-1[ALL]
+  b29_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-7-0[ALL]
+  b29_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-7-1[ALL]
+  b23_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-19-1[ALL]
+  b23_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-19-0[ALL]
+  b20_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-6-0[ALL]
+  b20_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-6-1[ALL]
+  b32_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-7-0[ALL]
+  b20_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-7-1[ALL]
+  b20_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-17-1[ALL]
+  b37_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-17-0[ALL]
+  b32_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-17-1[ALL]
+  b20_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-1-1[ALL]
+  b20_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-1-0[ALL]
+  b20_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-17-1[ALL]
+  b20_15_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-17-0[ALL]
+  b23_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-10-7[ALL]
+  b32_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-10-5[ALL]
+  b17_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-13-1[ALL]
+  b17_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-13-0[ALL]
+  b17_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-8-0[ALL]
+  b17_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-14-0[ALL]
+  b32_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-14-1[ALL]
+  b32_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-17-1[ALL]
+  b25_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-6-0[ALL]
+  b25_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-6-1[ALL]
+  b17_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-2-1[ALL]
+  b17_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-2-0[ALL]
+  b14_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-2-2[ALL]
+  b14_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-11-0[ALL]
+  b25_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-11-1[ALL]
+  b32_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-7-1[ALL]
+  b32_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-7-0[ALL]
+  b32_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-17-0[ALL]
+  b14_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-17-1[ALL]
+  b14_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-15-1[ALL]
+  b14_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-15-0[ALL]
+  b14_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-14-0[ALL]
+  b17_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-14-1[ALL]
+  b17_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-11-1[ALL]
+  b20_5_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-11-0[ALL]
+  b20_5_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-16-1[ALL]
+  b20_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-16-0[ALL]
+  b20_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-16-3[ALL]
+  b20_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-16-2[ALL]
+  b20_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-17-1[ALL]
+  b11_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-17-0[ALL]
+  b11_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-3-1[ALL]
+  b35_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-3-0[ALL]
+  b20_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-12-3[ALL]
+  b20_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-5-7[ALL]
+  b25_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-12-1[ALL]
+  b25_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-12-0[ALL]
+  b25_0_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-15-0[ALL]
+  b25_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-5-0[ALL]
+  b25_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-5-1[ALL]
+  b5_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-9-1[ALL]
+  b5_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-9-0[ALL]
+  b15_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-13-0[ALL]
+  b15_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-13-1[ALL]
+  b20_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-19-1[ALL]
+  b20_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-18-0[ALL]
+  b17_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-18-1[ALL]
+  b17_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-11-0[ALL]
+  b20_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-15-1[ALL]
+  b20_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-15-0[ALL]
+  b17_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-15-7[ALL]
+  b17_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-11-0[ALL]
+  b5_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-11-1[ALL]
+  b5_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-6-1[ALL]
+  b5_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-6-0[ALL]
+  b5_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-16-0[ALL]
+  b5_15_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-6-2[ALL]
+  b5_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-8-0[ALL]
+  b5_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-8-1[ALL]
+  b27_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-17-0[ALL]
+  b34_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-17-1[ALL]
+  b34_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-2-1[ALL]
+  b25_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-2-0[ALL]
+  b25_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-2-2[ALL]
+  b15_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-17-0[ALL]
+  b15_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-17-1[ALL]
+  b34_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-2-1[ALL]
+  b34_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-2-0[ALL]
+  b15_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-12-2[ALL]
+  b15_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-0-1[ALL]
+  b25_10_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-0-0[ALL]
+  b25_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-0-3[ALL]
+  b25_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-0-2[ALL]
+  b15_0_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-0-5[ALL]
+  b15_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-16-0[ALL]
+  b15_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-16-1[ALL]
+  b15_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-2-0[ALL]
+  b15_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-2-1[ALL]
+  b22_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-15-1[ALL]
+  b22_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-15-0[ALL]
+  b22_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-15-5[ALL]
+  b22_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-6-0[ALL]
+  b20_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-6-1[ALL]
+  b20_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-3-0[ALL]
+  b20_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-18-2[ALL]
+  b20_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-3-1[ALL]
+  b37_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-1-1[ALL]
+  b22_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-1-0[ALL]
+  b22_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-11-0[ALL]
+  b22_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-11-1[ALL]
+  b20_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-7-0[ALL]
+  b20_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-7-1[ALL]
+  b20_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-5-0[ALL]
+  b32_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-2-0[ALL]
+  b25_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-15-5[ALL]
+  b25_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-15-0[ALL]
+  b34_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-15-1[ALL]
+  b34_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-11-1[ALL]
+  b25_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-11-0[ALL]
+  b25_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-4-3[ALL]
+  b8_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-4-2[ALL]
+  b34_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-4-1[ALL]
+  b34_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-4-0[ALL]
+  b34_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-19-0[ALL]
+  b8_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-8-1[ALL]
+  b13_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-8-0[ALL]
+  b30_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-10-1[ALL]
+  b13_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-14-2[ALL]
+  b30_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-19-0[ALL]
+  b13_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-19-1[ALL]
+  b31_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-9-0[ALL]
+  b31_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-9-1[ALL]
+  b13_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-2-0[ALL]
+  b2_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-2-1[ALL]
+  b10_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-2-2[ALL]
+  b2_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-11-0[ALL]
+  b22_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-11-1[ALL]
+  b22_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-0-1[ALL]
+  b2_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-0-0[ALL]
+  b27_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-5-5[ALL]
+  b27_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-9-0[ALL]
+  b8_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-9-1[ALL]
+  b27_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-15-0[ALL]
+  b27_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-15-1[ALL]
+  b27_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-10-2[ALL]
+  b27_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-10-1[ALL]
+  b21_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-10-0[ALL]
+  b21_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-18-1[ALL]
+  b34_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-7-0[ALL]
+  b34_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-18-2[ALL]
+  b34_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-1-0[ALL]
+  b34_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-1-1[ALL]
+  b21_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-17-1[ALL]
+  b21_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-7-1[ALL]
+  b9_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-15-0[ALL]
+  b21_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-12-3[ALL]
+  b21_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-12-0[ALL]
+  b11_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-12-0[ALL]
+  b11_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-12-1[ALL]
+  b22_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-5-1[ALL]
+  b22_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-5-0[ALL]
+  b21_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-7-0[ALL]
+  b21_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-7-1[ALL]
+  b29_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-5-7[ALL]
+  b29_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-19-1[ALL]
+  b11_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-3-0[ALL]
+  b11_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-15-1[ALL]
+  b16_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-15-5[ALL]
+  b16_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-5-0[ALL]
+  b16_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-5-1[ALL]
+  b16_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-19-0[ALL]
+  b36_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-19-1[ALL]
+  b36_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-6-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  26-6-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  26-15-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  26-15-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  4-8-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  25-15-7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-14-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-14-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  25-15-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  25-15-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-4-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-4-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-4-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-4-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  13-12-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  13-12-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-8-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-8-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  13-13-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  32-13-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  32-13-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  13-13-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  13-16-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  13-16-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  36-12-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  5-6-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  17-15-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  17-15-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  7-11-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  27-13-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  27-13-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  0-0-5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  0-0-7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  16-1-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  0-0-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  0-0-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  37-15-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  37-15-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  2-13-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  2-13-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  4-17-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  4-17-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  28-12-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  28-12-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  28-12-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  28-12-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  12-18-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  12-18-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  32-16-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  32-16-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-18-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  35-17-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-18-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  30-14-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  30-14-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  30-14-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  24-6-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  24-6-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  24-6-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  27-2-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  27-2-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  13-14-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  13-14-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-2-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  22-11-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  14-2-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-0-5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-0-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-0-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-0-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-0-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  23-12-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  23-12-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  33-16-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  16-19-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  16-19-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  34-14-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  2-19-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  2-19-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  24-3-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  24-3-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  33-15-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  33-15-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  28-5-5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-8-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-8-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-8-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-8-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-4-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-4-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-4-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-4-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  17-19-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  17-19-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  11-11-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-4-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-4-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-4-3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  8-4-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-0-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  18-0-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  23-17-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  23-17-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  34-6-1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  5-5-7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  34-6-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  26-10-2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  26-10-0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  26-10-1[ALL]
+  b36_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -3748,3467 +3316,3899 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = refl
   }
-  22-17-1[ALL]
+  b11_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-17-0[ALL]
+  b11_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-10-0[ALL]
+  b21_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-10-1[ALL]
+  b21_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-13-1[ALL]
+  b11_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-13-0[ALL]
+  b11_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-13-1[ALL]
+  b11_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-13-0[ALL]
+  b11_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-2-1[ALL]
+  b11_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-2-0[ALL]
+  b11_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-1-1[ALL]
+  b16_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-1-0[ALL]
+  b16_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-14-0[ALL]
+  b16_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-14-1[ALL]
+  b36_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-9-0[ALL]
+  b36_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-2-0[ALL]
+  b11_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-2-1[ALL]
+  b11_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-2-2[ALL]
+  b12_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-17-1[ALL]
+  b16_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-17-0[ALL]
+  b12_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-2-2[ALL]
+  b16_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-2-1[ALL]
+  b16_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-2-0[ALL]
+  b16_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-6-0[ALL]
+  b16_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-6-1[ALL]
+  b11_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-6-2[ALL]
+  b11_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-10-7[ALL]
+  b4_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-10-0[ALL]
+  b4_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-10-1[ALL]
+  b36_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-8-1[ALL]
+  b36_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-3-1[ALL]
+  b36_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-3-0[ALL]
+  b9_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-18-1[ALL]
+  b16_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-18-0[ALL]
+  b16_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-7-0[ALL]
+  b16_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-7-1[ALL]
+  b16_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-8-0[ALL]
+  b16_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-8-1[ALL]
+  b16_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-6-2[ALL]
+  b36_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-6-1[ALL]
+  b36_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-6-0[ALL]
+  b36_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-13-0[ALL]
+  b36_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-13-1[ALL]
+  b36_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-12-0[ALL]
+  b11_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-12-1[ALL]
+  b11_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-7-1[ALL]
+  b2_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-7-0[ALL]
+  b2_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-3-1[ALL]
+  b27_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-3-0[ALL]
+  b27_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-7-1[ALL]
+  b10_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-7-0[ALL]
+  b10_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-4-1[ALL]
+  b10_5_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-4-0[ALL]
+  b27_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-4-3[ALL]
+  b27_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-4-2[ALL]
+  b10_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-3-0[ALL]
+  b10_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-2-0[ALL]
+  b4_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-2-1[ALL]
+  b4_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-5-1[ALL]
+  b17_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-5-0[ALL]
+  b17_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-5-5[ALL]
+  b14_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-7-1[ALL]
+  b14_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-5-7[ALL]
+  b14_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-2-0[ALL]
+  b28_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-2-1[ALL]
+  b38_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-14-2[ALL]
+  b38_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-14-1[ALL]
+  b14_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-14-0[ALL]
+  b14_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-3-0[ALL]
+  b14_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-3-1[ALL]
+  b14_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-0-3[ALL]
+  b17_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-0-2[ALL]
+  b17_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-0-5[ALL]
+  b16_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-6-0[ALL]
+  b16_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-6-1[ALL]
+  b27_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-4-1[ALL]
+  b27_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-4-0[ALL]
+  b31_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-8-1[ALL]
+  b31_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-8-0[ALL]
+  b28_10_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-16-2[ALL]
+  b33_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-16-3[ALL]
+  b28_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-16-0[ALL]
+  b28_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-16-1[ALL]
+  b28_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-1-1[ALL]
+  b28_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-1-0[ALL]
+  b28_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-0-2[ALL]
+  b28_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-15-0[ALL]
+  b28_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-15-1[ALL]
+  b31_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-16-1[ALL]
+  b31_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-16-0[ALL]
+  b21_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-16-3[ALL]
+  b21_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-16-2[ALL]
+  b38_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-9-0[ALL]
+  b38_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-9-1[ALL]
+  b34_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-7-1[ALL]
+  b14_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-7-0[ALL]
+  b14_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-6-0[ALL]
+  b14_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-6-1[ALL]
+  b14_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-19-0[ALL]
+  b28_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-19-1[ALL]
+  b28_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-2-1[ALL]
+  b28_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-2-0[ALL]
+  b30_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-16-0[ALL]
+  b30_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-16-1[ALL]
+  b30_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-12-1[ALL]
+  b18_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-10-0[ALL]
+  b18_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-12-3[ALL]
+  b18_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-12-2[ALL]
+  b18_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-5-1[ALL]
+  b31_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-3-1[ALL]
+  b31_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-3-0[ALL]
+  b14_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-6-0[ALL]
+  b14_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-9-0[ALL]
+  b31_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-9-1[ALL]
+  b31_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-10-1[ALL]
+  b18_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-18-0[ALL]
+  b8_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-18-1[ALL]
+  b18_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-0-0[ALL]
+  b36_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-16-0[ALL]
+  b6_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-16-1[ALL]
+  b13_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-7-1[ALL]
+  b23_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-7-0[ALL]
+  b23_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-7-0[ALL]
+  b28_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-6-1[ALL]
+  b28_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-6-0[ALL]
+  b26_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-10-0[ALL]
+  b6_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-6-2[ALL]
+  b6_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-3-0[ALL]
+  b13_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-3-1[ALL]
+  b13_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-3-1[ALL]
+  b8_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-3-0[ALL]
+  b18_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-10-1[ALL]
+  b18_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-5-0[ALL]
+  b18_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-6-2[ALL]
+  b18_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-6-1[ALL]
+  b14_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-6-0[ALL]
+  b14_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-5-1[ALL]
+  b34_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-2-0[ALL]
+  b23_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-2-1[ALL]
+  b23_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-2-0[ALL]
+  b27_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-2-1[ALL]
+  b27_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-16-1[ALL]
+  b23_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-16-0[ALL]
+  b23_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-16-3[ALL]
+  b20_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-16-2[ALL]
+  b20_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-6-0[ALL]
+  b28_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-6-1[ALL]
+  b28_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-5-0[ALL]
+  b23_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-14-0[ALL]
+  b17_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-14-1[ALL]
+  b13_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-1-1[ALL]
+  b13_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-4-3[ALL]
+  b28_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-4-2[ALL]
+  b28_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-4-1[ALL]
+  b26_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-4-0[ALL]
+  b17_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-12-2[ALL]
+  b28_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-17-0[ALL]
+  b27_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-14-2[ALL]
+  b27_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-5-1[ALL]
+  b23_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-18-0[ALL]
+  b23_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-18-1[ALL]
+  b27_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-8-0[ALL]
+  b27_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-8-1[ALL]
+  b28_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-13-0[ALL]
+  b28_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-13-1[ALL]
+  b28_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-3-0[ALL]
+  b25_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-3-1[ALL]
+  b25_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-13-1[ALL]
+  b26_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-13-0[ALL]
+  b28_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-13-1[ALL]
+  b4_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-19-0[ALL]
+  b4_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-19-1[ALL]
+  b4_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-13-1[ALL]
+  b4_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-13-0[ALL]
+  b4_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-13-0[ALL]
+  b28_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-11-1[ALL]
+  b2_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-11-0[ALL]
+  b2_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-19-1[ALL]
+  b2_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-0-3[ALL]
+  b2_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-0-2[ALL]
+  b4_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-0-1[ALL]
+  b4_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-0-0[ALL]
+  b4_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-12-0[ALL]
+  b4_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-12-1[ALL]
+  b4_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-17-1[ALL]
+  b4_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-17-0[ALL]
+  b4_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-7-0[ALL]
+  b2_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-7-1[ALL]
+  b2_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-3-1[ALL]
+  b2_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-3-0[ALL]
+  b2_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-14-0[ALL]
+  b27_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-14-1[ALL]
+  b25_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-14-2[ALL]
+  b10_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-15-0[ALL]
+  b10_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-15-1[ALL]
+  b10_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-17-1[ALL]
+  b2_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-11-1[ALL]
+  b2_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-15-1[ALL]
+  b8_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-15-0[ALL]
+  b21_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-7-1[ALL]
+  b6_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-7-0[ALL]
+  b6_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-11-0[ALL]
+  b6_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-11-1[ALL]
+  b10_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-13-1[ALL]
+  b10_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-13-0[ALL]
+  b10_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-0-0[ALL]
+  b6_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-0-1[ALL]
+  b18_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-6-1[ALL]
+  b18_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-6-0[ALL]
+  b18_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-6-2[ALL]
+  b18_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-10-0[ALL]
+  b2_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-10-1[ALL]
+  b2_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-10-2[ALL]
+  b2_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-10-5[ALL]
+  b2_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-1-1[ALL]
+  b2_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-1-0[ALL]
+  b2_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-8-3[ALL]
+  b2_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-8-2[ALL]
+  b2_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-8-1[ALL]
+  b2_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-8-0[ALL]
+  b35_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-15-0[ALL]
+  b35_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-15-1[ALL]
+  b35_5_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-13-0[ALL]
+  b5_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-13-1[ALL]
+  b5_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-5-1[ALL]
+  b5_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-5-0[ALL]
+  b5_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-9-0[ALL]
+  b21_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-5-7[ALL]
+  b21_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-5-0[ALL]
+  b18_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-5-1[ALL]
+  b18_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-3-1[ALL]
+  b18_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-3-0[ALL]
+  b34_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-18-1[ALL]
+  b34_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-18-0[ALL]
+  b34_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-8-1[ALL]
+  b35_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-8-0[ALL]
+  b35_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-9-1[ALL]
+  b6_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-9-0[ALL]
+  b13_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-4-1[ALL]
+  b6_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-4-0[ALL]
+  b2_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-4-3[ALL]
+  b2_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-4-2[ALL]
+  b5_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-3-1[ALL]
+  b5_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-3-0[ALL]
+  b34_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-0-0[ALL]
+  b34_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-0-1[ALL]
+  b6_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-16-0[ALL]
+  b6_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-16-1[ALL]
+  b6_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-15-1[ALL]
+  b6_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-15-0[ALL]
+  b21_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-14-1[ALL]
+  b18_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-14-0[ALL]
+  b18_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-12-0[ALL]
+  b19_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-12-1[ALL]
+  b19_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-0-1[ALL]
+  b21_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-0-0[ALL]
+  b21_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-0-3[ALL]
+  b5_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-0-2[ALL]
+  b19_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-1-0[ALL]
+  b21_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-1-1[ALL]
+  b21_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-4-1[ALL]
+  b5_0_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-6-1[ALL]
+  b5_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-0-7[ALL]
+  b5_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-6-2[ALL]
+  b34_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-8-0[ALL]
+  b34_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-8-1[ALL]
+  b18_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-19-0[ALL]
+  b18_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-19-1[ALL]
+  b18_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-4-0[ALL]
+  b18_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-13-0[ALL]
+  b18_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-13-1[ALL]
+  b18_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-0-3[ALL]
+  b25_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-0-5[ALL]
+  b18_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-0-3[ALL]
+  b18_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-0-2[ALL]
+  b14_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-0-1[ALL]
+  b34_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-0-0[ALL]
+  b37_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-7-1[ALL]
+  b37_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-7-0[ALL]
+  b13_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-2-1[ALL]
+  b13_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-2-0[ALL]
+  b37_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-2-2[ALL]
+  b37_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-6-0[ALL]
+  b37_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-11-1[ALL]
+  b37_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-4-0[ALL]
+  b37_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-18-1[ALL]
+  b37_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-18-0[ALL]
+  b4_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-11-1[ALL]
+  b4_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-12-1[ALL]
+  b4_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-12-0[ALL]
+  b4_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-12-3[ALL]
+  b13_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-12-2[ALL]
+  b13_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-19-0[ALL]
+  b30_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-19-1[ALL]
+  b30_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-2-1[ALL]
+  b13_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-19-1[ALL]
+  b13_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-19-0[ALL]
+  b4_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-2-2[ALL]
+  b4_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-2-1[ALL]
+  b4_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-4-1[ALL]
+  b13_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-19-0[ALL]
+  b13_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-19-1[ALL]
+  b35_0_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-0-3[ALL]
+  b35_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-0-2[ALL]
+  b35_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-0-1[ALL]
+  b35_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-0-0[ALL]
+  b35_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-0-5[ALL]
+  b13_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-16-1[ALL]
+  b13_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-16-0[ALL]
+  b32_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-16-3[ALL]
+  b30_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-16-2[ALL]
+  b30_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-18-0[ALL]
+  b35_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-14-0[ALL]
+  b35_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-14-1[ALL]
+  b32_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-12-1[ALL]
+  b22_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-12-0[ALL]
+  b30_5_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-7-1[ALL]
+  b32_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-2-2[ALL]
+  b30_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-2-0[ALL]
+  b30_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-2-1[ALL]
+  b19_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-15-0[ALL]
+  b19_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-15-1[ALL]
+  b35_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-17-0[ALL]
+  b35_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-0-3[ALL]
+  b30_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-0-2[ALL]
+  b30_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-0-1[ALL]
+  b19_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-0-0[ALL]
+  b19_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-2-2[ALL]
+  b4_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-2-1[ALL]
+  b4_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-2-0[ALL]
+  b4_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-15-1[ALL]
+  b35_10_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-15-0[ALL]
+  b19_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-6-2[ALL]
+  b19_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-6-1[ALL]
+  b4_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-6-0[ALL]
+  b4_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-15-0[ALL]
+  b12_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-15-1[ALL]
+  b12_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-11-0[ALL]
+  b12_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-11-1[ALL]
+  b12_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-10-2[ALL]
+  b30_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-10-1[ALL]
+  b30_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-10-0[ALL]
+  b30_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-10-7[ALL]
+  b30_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-10-1[ALL]
+  b9_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-10-0[ALL]
+  b9_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-10-2[ALL]
+  b6_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-18-1[ALL]
+  b6_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-18-0[ALL]
+  b6_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-18-2[ALL]
+  b6_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-16-3[ALL]
+  b6_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-16-0[ALL]
+  b12_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-3-0[ALL]
+  b12_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-3-1[ALL]
+  b12_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-13-0[ALL]
+  b9_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-13-1[ALL]
+  b9_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-15-5[ALL]
+  b13_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-19-1[ALL]
+  b13_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-19-0[ALL]
+  b25_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-15-1[ALL]
+  b34_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-15-0[ALL]
+  b25_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-14-0[ALL]
+  b34_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-16-0[ALL]
+  b12_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-16-1[ALL]
+  b12_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-16-2[ALL]
+  b12_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-16-3[ALL]
+  b12_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-7-0[ALL]
+  b12_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-7-1[ALL]
+  b34_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-11-1[ALL]
+  b3_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-11-0[ALL]
+  b3_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-17-1[ALL]
+  b3_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-12-0[ALL]
+  b3_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-12-1[ALL]
+  b12_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-12-2[ALL]
+  b12_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-12-3[ALL]
+  b12_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-11-1[ALL]
+  b12_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-11-0[ALL]
+  b6_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-3-1[ALL]
+  b6_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-3-0[ALL]
+  b6_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-12-0[ALL]
+  b6_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-12-1[ALL]
+  b4_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-18-0[ALL]
+  b4_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-12-1[ALL]
+  b12_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-12-0[ALL]
+  b12_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-12-3[ALL]
+  b12_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-12-2[ALL]
+  b9_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-12-3[ALL]
+  b9_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-12-2[ALL]
+  b6_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-12-1[ALL]
+  b6_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-12-0[ALL]
+  b4_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-0-1[ALL]
+  b4_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-0-0[ALL]
+  b5_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-18-1[ALL]
+  b5_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-7-1[ALL]
+  b32_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-7-0[ALL]
+  b34_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-16-0[ALL]
+  b34_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-16-1[ALL]
+  b34_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-17-0[ALL]
+  b34_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-8-1[ALL]
+  b32_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-3-0[ALL]
+  b9_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-3-1[ALL]
+  b9_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-11-1[ALL]
+  b3_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-11-0[ALL]
+  b3_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-7-1[ALL]
+  b32_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-7-0[ALL]
+  b32_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-2-0[ALL]
+  b32_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-2-1[ALL]
+  b32_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-6-2[ALL]
+  b32_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-6-0[ALL]
+  b32_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-6-1[ALL]
+  b32_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-6-1[ALL]
+  b22_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-6-0[ALL]
+  b22_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-19-1[ALL]
+  b9_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-19-0[ALL]
+  b9_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-17-0[ALL]
+  b32_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-17-1[ALL]
+  b27_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-6-2[ALL]
+  b27_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-6-1[ALL]
+  b33_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-6-0[ALL]
+  b33_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-1-1[ALL]
+  b33_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-1-0[ALL]
+  b33_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-15-0[ALL]
+  b3_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-11-0[ALL]
+  b3_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-11-1[ALL]
+  b33_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-10-0[ALL]
+  b33_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-3-1[ALL]
+  b32_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-19-1[ALL]
+  b32_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-6-0[ALL]
+  b3_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-3-1[ALL]
+  b3_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-5-1[ALL]
+  b32_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-5-0[ALL]
+  b34_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-17-1[ALL]
+  b33_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-17-0[ALL]
+  b33_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-5-7[ALL]
+  b31_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-5-0[ALL]
+  b33_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-5-1[ALL]
+  b33_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-13-1[ALL]
+  b6_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-13-0[ALL]
+  b6_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-13-1[ALL]
+  b35_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-13-0[ALL]
+  b37_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-6-0[ALL]
+  b37_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-6-1[ALL]
+  b37_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-2-0[ALL]
+  b37_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-2-1[ALL]
+  b37_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-19-0[ALL]
+  b11_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-9-1[ALL]
+  b11_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-9-0[ALL]
+  b37_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-10-0[ALL]
+  b37_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-10-1[ALL]
+  b30_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-11-0[ALL]
+  b30_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-11-1[ALL]
+  b31_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-5-5[ALL]
+  b31_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-6-2[ALL]
+  b9_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-15-0[ALL]
+  b9_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-15-1[ALL]
+  b30_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-13-1[ALL]
+  b30_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-8-0[ALL]
+  b9_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-3-1[ALL]
+  b9_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-8-3[ALL]
+  b9_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-8-2[ALL]
+  b9_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-10-2[ALL]
+  b14_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-10-1[ALL]
+  b14_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-10-0[ALL]
+  b14_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-10-5[ALL]
+  b30_15_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-6-1[ALL]
+  b30_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-6-0[ALL]
+  b30_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-13-0[ALL]
+  b30_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-8-0[ALL]
+  b30_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-8-1[ALL]
+  b31_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-8-2[ALL]
+  b31_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-8-3[ALL]
+  b7_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-1-0[ALL]
+  b7_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-0-1[ALL]
+  b22_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-0-0[ALL]
+  b22_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-2-1[ALL]
+  b22_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-2-0[ALL]
+  b35_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-8-1[ALL]
+  b35_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-8-0[ALL]
+  b3_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-11-0[ALL]
+  b3_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-17-1[ALL]
+  b7_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-17-0[ALL]
+  b7_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-6-2[ALL]
+  b22_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-6-1[ALL]
+  b22_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-6-0[ALL]
+  b22_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-3-1[ALL]
+  b22_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-3-0[ALL]
+  b31_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-12-0[ALL]
+  b31_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-15-0[ALL]
+  b22_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-0-1[ALL]
+  b22_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-0-0[ALL]
+  b22_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-2-2[ALL]
+  b22_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-2-1[ALL]
+  b22_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-2-0[ALL]
+  b22_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-2-0[ALL]
+  b22_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-2-1[ALL]
+  b15_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-17-0[ALL]
+  b15_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-17-1[ALL]
+  b12_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-14-1[ALL]
+  b12_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-14-0[ALL]
+  b12_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-7-1[ALL]
+  b15_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-7-0[ALL]
+  b15_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-6-0[ALL]
+  b12_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-6-1[ALL]
+  b12_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-14-2[ALL]
+  b15_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-16-0[ALL]
+  b15_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-16-1[ALL]
+  b15_10_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-13-0[ALL]
+  b15_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-13-1[ALL]
+  b15_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-19-1[ALL]
+  b33_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-19-0[ALL]
+  b33_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-6-0[ALL]
+  b33_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-6-1[ALL]
+  b33_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-16-1[ALL]
+  b12_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-16-0[ALL]
+  b12_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-7-0[ALL]
+  b8_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-7-1[ALL]
+  b8_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-2-1[ALL]
+  b0_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-2-0[ALL]
+  b0_15_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-2-2[ALL]
+  b8_10_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-12-1[ALL]
+  b8_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-12-0[ALL]
+  b8_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-7-1[ALL]
+  b8_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-7-0[ALL]
+  b12_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-2-2[ALL]
+  b12_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-0-1[ALL]
+  b3_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-2-0[ALL]
+  b3_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-2-1[ALL]
+  b3_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-6-0[ALL]
+  b3_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-6-1[ALL]
+  b7_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-2-2[ALL]
+  b7_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-18-0[ALL]
+  b7_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-18-1[ALL]
+  b7_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-6-1[ALL]
+  b15_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-6-0[ALL]
+  b15_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-2-0[ALL]
+  b3_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-2-1[ALL]
+  b3_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-3-1[ALL]
+  b8_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-3-0[ALL]
+  b8_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-6-2[ALL]
+  b7_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-6-0[ALL]
+  b7_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  20-6-1[ALL]
+  b30_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-10-0[ALL]
+  b30_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-10-1[ALL]
+  b30_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-18-1[ALL]
+  b9_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-18-0[ALL]
+  b9_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-5-0[ALL]
+  b33_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-5-1[ALL]
+  b12_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-14-2[ALL]
+  b12_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-14-2[ALL]
+  b12_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-19-0[ALL]
+  b12_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-19-1[ALL]
+  b11_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  38-0-3[ALL]
+  b3_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-12-0[ALL]
+  b3_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-12-1[ALL]
+  b35_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-14-0[ALL]
+  b11_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-6-1[ALL]
+  b12_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-1-0[ALL]
+  b12_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-1-1[ALL]
+  b12_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-16-1[ALL]
+  b35_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-16-0[ALL]
+  b12_10_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-18-2[ALL]
+  b3_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-17-0[ALL]
+  b3_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-14-0[ALL]
+  b19_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  31-14-1[ALL]
+  b28_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-3-1[ALL]
+  b28_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-3-0[ALL]
+  b28_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-17-0[ALL]
+  b28_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-0-0[ALL]
+  b28_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-0-1[ALL]
+  b28_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-14-1[ALL]
+  b28_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-14-0[ALL]
+  b28_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-10-0[ALL]
+  b28_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-10-1[ALL]
+  b28_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-7-0[ALL]
+  b10_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-7-1[ALL]
+  b10_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-18-0[ALL]
+  b10_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-18-1[ALL]
+  b33_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-10-1[ALL]
+  b33_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-10-0[ALL]
+  b33_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-14-0[ALL]
+  b33_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-14-1[ALL]
+  b33_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-15-7[ALL]
+  b33_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  0-15-5[ALL]
+  b10_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-4-0[ALL]
+  b10_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-4-1[ALL]
+  b10_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-10-0[ALL]
+  b10_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-10-1[ALL]
+  b10_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-10-7[ALL]
+  b10_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-18-0[ALL]
+  b10_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-18-1[ALL]
+  b10_10_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-19-0[ALL]
+  b10_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-5-0[ALL]
+  b10_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-2-0[ALL]
+  b10_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-18-0[ALL]
+  b10_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-18-1[ALL]
+  b36_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-10-1[ALL]
+  b36_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-10-0[ALL]
+  b36_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-9-0[ALL]
+  b26_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-9-1[ALL]
+  b24_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-8-3[ALL]
+  b35_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-8-2[ALL]
+  b35_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-8-1[ALL]
+  b26_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-8-0[ALL]
+  b26_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-14-1[ALL]
+  b28_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-14-0[ALL]
+  b28_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-12-1[ALL]
+  b5_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-12-0[ALL]
+  b28_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-12-3[ALL]
+  b28_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-12-2[ALL]
+  b6_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-4-0[ALL]
+  b8_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-4-1[ALL]
+  b8_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-4-1[ALL]
+  b6_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-4-0[ALL]
+  b35_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-4-3[ALL]
+  b26_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-4-2[ALL]
+  b26_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-14-0[ALL]
+  b8_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  5-14-1[ALL]
+  b8_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-17-1[ALL]
+  b8_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-17-0[ALL]
+  b8_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-14-0[ALL]
+  b8_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-14-1[ALL]
+  b26_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-19-1[ALL]
+  b26_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  33-19-0[ALL]
+  b28_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-13-1[ALL]
+  b28_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-13-0[ALL]
+  b36_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-4-0[ALL]
+  b36_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-4-1[ALL]
+  b26_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-16-1[ALL]
+  b26_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-16-0[ALL]
+  b26_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-18-1[ALL]
+  b30_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-18-0[ALL]
+  b37_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-18-2[ALL]
+  b37_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-8-1[ALL]
+  b26_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-8-0[ALL]
+  b26_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-9-1[ALL]
+  b26_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-9-0[ALL]
+  b26_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-14-2[ALL]
+  b36_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-14-1[ALL]
+  b36_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-14-0[ALL]
+  b26_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-12-3[ALL]
+  b26_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-12-2[ALL]
+  b26_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-12-1[ALL]
+  b26_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-12-0[ALL]
+  b36_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-4-0[ALL]
+  b36_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-4-1[ALL]
+  b36_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-10-0[ALL]
+  b36_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-10-1[ALL]
+  b36_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-16-0[ALL]
+  b24_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-16-1[ALL]
+  b24_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-12-1[ALL]
+  b24_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  21-12-0[ALL]
+  b8_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-12-0[ALL]
+  b8_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-12-1[ALL]
+  b8_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-9-1[ALL]
+  b8_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-9-0[ALL]
+  b8_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-11-1[ALL]
+  b8_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-11-0[ALL]
+  b8_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-8-3[ALL]
+  b8_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-8-2[ALL]
+  b27_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-8-1[ALL]
+  b16_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-8-0[ALL]
+  b16_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-18-0[ALL]
+  b16_18_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-18-1[ALL]
+  b24_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-18-2[ALL]
+  b24_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-0-0[ALL]
+  b24_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-0-1[ALL]
+  b24_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-3-0[ALL]
+  b26_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-3-1[ALL]
+  b16_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-2-1[ALL]
+  b16_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-18-1[ALL]
+  b26_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-18-0[ALL]
+  b24_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-11-0[ALL]
+  b24_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-14-2[ALL]
+  b24_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-14-1[ALL]
+  b16_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-14-0[ALL]
+  b16_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-1-0[ALL]
+  b8_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-11-0[ALL]
+  b8_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  35-17-1[ALL]
+  b16_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-18-2[ALL]
+  b24_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-18-1[ALL]
+  b24_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-18-0[ALL]
+  b24_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-8-0[ALL]
+  b24_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  19-8-1[ALL]
+  b24_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-14-1[ALL]
+  b8_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-1-0[ALL]
+  b35_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-14-2[ALL]
+  b8_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-11-0[ALL]
+  b8_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-11-1[ALL]
+  b35_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  34-1-1[ALL]
+  b16_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-3-0[ALL]
+  b16_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-3-1[ALL]
+  b8_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-1-0[ALL]
+  b8_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-1-1[ALL]
+  b8_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-7-0[ALL]
+  b8_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-7-1[ALL]
+  b24_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-1-0[ALL]
+  b24_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-1-1[ALL]
+  b26_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-1-1[ALL]
+  b26_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-1-0[ALL]
+  b26_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-19-1[ALL]
+  b26_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  11-19-0[ALL]
+  b16_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-10-7[ALL]
+  b16_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-10-1[ALL]
+  b26_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-10-0[ALL]
+  b26_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-9-0[ALL]
+  b29_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  10-9-1[ALL]
+  b29_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-2-0[ALL]
+  b29_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-2-1[ALL]
+  b29_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-4-3[ALL]
+  b24_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-4-2[ALL]
+  b24_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-4-1[ALL]
+  b29_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-4-0[ALL]
+  b29_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-0-2[ALL]
+  b24_16_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-12-2[ALL]
+  b24_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-12-3[ALL]
+  b24_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-12-0[ALL]
+  b24_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-12-1[ALL]
+  b23_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-12-3[ALL]
+  b23_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-0-0[ALL]
+  b24_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-12-1[ALL]
+  b24_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-12-0[ALL]
+  b24_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-0-3[ALL]
+  b24_10_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-7-0[ALL]
+  b24_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-7-1[ALL]
+  b24_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-8-1[ALL]
+  b24_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-0-1[ALL]
+  b24_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-6-2[ALL]
+  b28_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-7-0[ALL]
+  b4_15_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-7-1[ALL]
+  b24_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-16-3[ALL]
+  b24_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-16-2[ALL]
+  b24_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-16-1[ALL]
+  b19_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-16-0[ALL]
+  b19_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-13-0[ALL]
+  b0_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-13-1[ALL]
+  b0_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-0-0[ALL]
+  b0_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-0-1[ALL]
+  b29_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-12-1[ALL]
+  b0_0_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-12-0[ALL]
+  b29_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-7-1[ALL]
+  b29_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-7-0[ALL]
+  b19_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-0-0[ALL]
+  b19_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-7-0[ALL]
+  b29_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-7-1[ALL]
+  b29_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  36-2-1[ALL]
+  b34_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-1-0[ALL]
+  b34_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-8-3[ALL]
+  b19_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-8-2[ALL]
+  b19_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-8-1[ALL]
+  b25_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-8-0[ALL]
+  b25_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-10-0[ALL]
+  b25_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-10-1[ALL]
+  b25_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-16-1[ALL]
+  b0_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-16-0[ALL]
+  b0_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-4-3[ALL]
+  b19_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-4-2[ALL]
+  b19_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-4-1[ALL]
+  b14_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  16-4-0[ALL]
+  b14_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  29-1-1[ALL]
+  b32_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  6-5-0[ALL]
+  b32_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-3-0[ALL]
+  b19_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-19-0[ALL]
+  b19_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-18-0[ALL]
+  b29_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-18-1[ALL]
+  b29_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-5-1[ALL]
+  b14_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-5-0[ALL]
+  b14_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-3-1[ALL]
+  b6_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-3-0[ALL]
+  b14_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-16-1[ALL]
+  b14_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-16-0[ALL]
+  b29_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-16-3[ALL]
+  b29_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-16-2[ALL]
+  b23_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-16-1[ALL]
+  b23_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-16-0[ALL]
+  b20_4_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-15-5[ALL]
+  b20_4_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-11-0[ALL]
+  b20_4_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-11-1[ALL]
+  b20_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-16-0[ALL]
+  b23_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-16-1[ALL]
+  b23_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-10-5[ALL]
+  b20_6_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-9-1[ALL]
+  b20_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-10-2[ALL]
+  b25_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-10-1[ALL]
+  b20_6_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-10-0[ALL]
+  b25_5_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-0-3[ALL]
+  b20_8_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-11-1[ALL]
+  b20_8_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  13-11-0[ALL]
+  b20_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-4-2[ALL]
+  b20_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-4-3[ALL]
+  b25_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-4-0[ALL]
+  b25_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  22-4-1[ALL]
+  b34_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-12-0[ALL]
+  b5_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  17-12-1[ALL]
+  b5_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-4-1[ALL]
+  b5_16_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  25-4-0[ALL]
+  b5_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-10-1[ALL]
+  b15_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-10-0[ALL]
+  b15_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-10-2[ALL]
+  b20_0_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-13-0[ALL]
+  b20_0_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-11-1[ALL]
+  b20_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-11-0[ALL]
+  b20_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-10-1[ALL]
+  b20_0_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-10-0[ALL]
+  b23_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-14-1[ALL]
+  b20_0_5[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-14-0[ALL]
+  b23_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-14-1[ALL]
+  b23_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  4-14-0[ALL]
+  b20_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-17-0[ALL]
+  b20_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  12-17-1[ALL]
+  b20_2_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-14-1[ALL]
+  b5_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-14-2[ALL]
+  b5_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-14-1[ALL]
+  b5_10_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-14-0[ALL]
+  b5_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-11-1[ALL]
+  b5_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-11-0[ALL]
+  b25_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-16-0[ALL]
+  b25_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  37-16-1[ALL]
+  b7_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-4-0[ALL]
+  b7_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-4-1[ALL]
+  b15_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-4-2[ALL]
+  b15_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-4-3[ALL]
+  b18_2_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-5-1[ALL]
+  b34_12_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  3-5-0[ALL]
+  b34_12_3[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-9-1[ALL]
+  b34_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-9-0[ALL]
+  b34_12_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-19-1[ALL]
+  b7_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-19-0[ALL]
+  b7_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-1-0[ALL]
+  b15_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  14-1-1[ALL]
+  b15_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-0-2[ALL]
+  b34_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-18-0[ALL]
+  b34_14_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  9-18-1[ALL]
+  b34_14_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-8-3[ALL]
+  b25_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  32-8-2[ALL]
+  b25_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-10-1[ALL]
+  b29_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-10-0[ALL]
+  b29_18_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-9-1[ALL]
+  b15_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-9-0[ALL]
+  b15_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-16-3[ALL]
+  b2_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-16-2[ALL]
+  b22_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-16-1[ALL]
+  b22_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  2-16-0[ALL]
+  b22_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  7-4-0[ALL]
+  b22_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-8-1[ALL]
+  b20_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  27-8-0[ALL]
+  b20_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-0-5[ALL]
+  b25_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-0-0[ALL]
+  b25_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-0-1[ALL]
+  b32_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-0-2[ALL]
+  b7_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  24-0-3[ALL]
+  b7_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  15-8-0[ALL]
+  b15_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  26-4-2[ALL]
+  b15_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-17-1[ALL]
+  b25_15_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-2-2[ALL]
+  b15_5_7[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-2-0[ALL]
+  b34_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  28-2-1[ALL]
+  b34_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-19-0[ALL]
+  b34_10_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-16-1[ALL]
+  b25_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  30-19-1[ALL]
+  b7_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-7-0[ALL]
+  b7_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  18-7-1[ALL]
+  b2_10_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-14-1[ALL]
+  b22_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-14-0[ALL]
+  b22_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-1-0[ALL]
+  b22_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  23-1-1[ALL]
+  b22_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-3-0[ALL]
+  b32_16_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  8-3-1[ALL]
+  b22_0_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_14_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_14_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_14_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b34_17_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b34_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b34_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b34_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_12_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_14_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_14_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_4_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_12_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_12_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_12_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_12_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_12_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_12_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_4_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_4_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_4_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_10_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_10_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_10_5[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_2_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_2_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_10_5[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_10_7[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_10_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_10_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_12_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_12_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_12_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_0_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_14_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b34_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_14_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_12_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_14_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b38_12_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b38_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_16_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_2_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b38_16_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b38_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b27_3_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b27_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_10_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b32_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_8_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_1_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b25_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b25_18_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b27_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b27_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b31_14_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b31_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b38_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b38_0_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_8_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_8_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_8_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b31_12_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b31_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b37_18_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b31_10_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b31_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b31_16_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b31_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b36_8_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b36_8_3[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b36_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b36_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }

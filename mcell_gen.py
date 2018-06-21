@@ -74,9 +74,9 @@ INSTANTIATE Scene OBJECT
 ''','''
   release RELEASE_SITE
   {
-   SHAPE = Scene.box0_0_0
+   SHAPE = Scene.b0_0_0
    MOLECULE = Ca
-   CONCENTRATION = 1e-3
+   CONCENTRATION = 10e-6
    RELEASE_PROBABILITY = 1
   }
 }
@@ -104,7 +104,7 @@ file_string='''DEFINE_MOLECULES
   calB {DIFFUSION_CONSTANT_3D = 0.28e-6}
 }'''
 with open(os.path.join(model_folder,'molecules.mdl'), "w") as out_file:
-    for line in file_string[0]:
+    for line in file_string:
         out_file.write(line)
 
 #mod_surf_regions.mdl
@@ -133,17 +133,34 @@ with open(os.path.join(model_folder,'viz_output.mdl'), "w") as out_file:
     for line in file_string:
         out_file.write(line)
 
+
+#surface_classes.mdl
+file_string='''DEFINE_SURFACE_CLASSES
+{
+  transp
+  {
+    TRANSPARENT = ALL_MOLECULES;
+  }
+  refl
+  {
+    REFLECTIVE = ALL_MOLECULES;
+  }
+}'''
+with open(os.path.join(model_folder,'surface_classes.mdl'), "w") as out_file:
+    for line in file_string:
+        out_file.write(line)
+
 #geometry.mdl
 def vertices(box):
     vert=[]
-    vert.append("  [ "+str(box[0])+", "+str(box[1])+", "+str(box[2])+" ]\n")
-    vert.append("  [ "+str(box[0])+", "+str(box[1])+", "+str(box[2]+box[5])+" ]\n")
-    vert.append("  [ "+str(box[0])+", "+str(box[1]+box[4])+", "+str(box[2])+" ]\n")
-    vert.append("  [ "+str(box[0])+", "+str(box[1]+box[4])+", "+str(box[2]+box[5])+" ]\n")
-    vert.append("  [ "+str(box[0]+box[3])+", "+str(box[1])+", "+str(box[2])+" ]\n")
-    vert.append("  [ "+str(box[0]+box[3])+", "+str(box[1])+", "+str(box[2]+box[5])+" ]\n")
-    vert.append("  [ "+str(box[0]+box[3])+", "+str(box[1]+box[4])+", "+str(box[2])+" ]\n")
-    vert.append("  [ "+str(box[0]+box[3])+", "+str(box[1]+box[4])+", "+str(box[2]+box[5])+" ]\n")
+    vert.append("    [ "+str(box[0])+", "+str(box[1])+", "+str(box[2])+" ]\n")
+    vert.append("    [ "+str(box[0])+", "+str(box[1])+", "+str(box[2]+box[5])+" ]\n")
+    vert.append("    [ "+str(box[0])+", "+str(box[1]+box[4])+", "+str(box[2])+" ]\n")
+    vert.append("    [ "+str(box[0])+", "+str(box[1]+box[4])+", "+str(box[2]+box[5])+" ]\n")
+    vert.append("    [ "+str(box[0]+box[3])+", "+str(box[1])+", "+str(box[2])+" ]\n")
+    vert.append("    [ "+str(box[0]+box[3])+", "+str(box[1])+", "+str(box[2]+box[5])+" ]\n")
+    vert.append("    [ "+str(box[0]+box[3])+", "+str(box[1]+box[4])+", "+str(box[2])+" ]\n")
+    vert.append("    [ "+str(box[0]+box[3])+", "+str(box[1]+box[4])+", "+str(box[2]+box[5])+" ]\n")
     return vert
 
 file_string='''  ELEMENT_CONNECTIONS
@@ -170,8 +187,15 @@ with open(os.path.join(model_folder,'geometry.mdl'), "w") as out_file:
             out_file.write(line)
         out_file.write("  }\n")
         out_file.write(file_string)
+
+#rxn_output.mdl
+with open(os.path.join(model_folder,'rxn_output.mdl'), "w") as out_file:
+    out_file.write("REACTION_DATA_OUTPUT\n{\n  STEP="+str(data_time_step)+"\n")
+    for box in bm.BOXES.keys():
+        out_file.write('  {COUNT[Ca,Scene.'+box+']} =>  "'+model_folder+'react_data/seed_" & seed & "/'+box+'.dat"\n')
     out_file.write("}")
 
+        
         
 
 
