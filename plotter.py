@@ -1,8 +1,11 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import os
+import sys
 
-data_loc="/home/kabir/Blender/2x2_diff_files/2x2_diff_files/mcell/Average/"
+
+
+data_loc=os.getcwd()+"/"+sys.argv[1]+"/Average/"
 
 plt.close('all')
 

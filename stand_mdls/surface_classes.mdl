@@ -1,0 +1,12 @@
+DEFINE_SURFACE_CLASSES
+{
+  transp
+  {
+    TRANSPARENT = ALL_MOLECULES;
+  }
+  refl
+  {
+    REFLECTIVE = ALL_MOLECULES;
+  }
+}
+
