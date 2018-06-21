@@ -1,8 +1,1 @@
-DEFINE_MOLECULES
-{
-  Ca
-  {
-    DIFFUSION_CONSTANT_3D = 2.2e-6
-  }
-}
-
+D
