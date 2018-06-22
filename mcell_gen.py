@@ -12,6 +12,7 @@ stand_mdls="~/project/stand_mdls/"
 
 sim_time_step=1e-6
 data_time_step=1e-5
+init_conc=1e-6
 
 bm.main(geom_desc_loc,pklfile,big_box_size)
 
@@ -77,7 +78,7 @@ INSTANTIATE Scene OBJECT
   {
    SHAPE = Scene.b0_0_0
    MOLECULE = Ca
-   CONCENTRATION = 10e-6
+   CONCENTRATION = '''+str(init_conc)+'''
    RELEASE_PROBABILITY = 1
   }
 }

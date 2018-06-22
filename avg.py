@@ -44,7 +44,7 @@ for file_name in file_names:
         avg+=dat
     avg/=len(seed_folders)
     #concentration in millimoles
-    avg*=1e18/N_avo/get_volume(file_name)
+    avg.T[1]*=1e15/N_avo/get_volume(file_name)
     f=open(os.path.join(avg_path,file_name),'w')
     array_to_txtfile(avg,f)
     f.close()
