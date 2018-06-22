@@ -2,7 +2,10 @@ import numpy as np
 import os
 import sys
 import pickle as pkl
+
 N_avo=6.0221409e23
+
+#set mcell directory
 dir=os.getcwd()+"/"+sys.argv[1]+"/"
 
 #averaged data
@@ -25,7 +28,7 @@ def array_to_txtfile(arr,file):
 
 #return volume of box by its .dat file name in micrometer cube 
 def get_volume(dat_file_name):
-    name=dat_file_name[:-4].replace('_','-')
+    name=dat_file_name[:-4]
     box=boxes[name]
     vol=box[3]*box[4]*box[5]
     return vol

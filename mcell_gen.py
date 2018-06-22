@@ -3,9 +3,9 @@ import os
 import pickle as pkl
 import numpy as np
 
-model_folder="/home/kabir/project/mcell100/"
-geom_desc_loc="/home/kabir/project/mcell100.txt"
-big_box_size=[40,20,10]
+model_folder="/home/kabir/project/mcell8/"
+geom_desc_loc="/home/kabir/project/mcell8.txt"
+big_box_size=[2,2,2]
 pklfile=os.path.join(model_folder,"all_boxes.pkl")
 stand_mdls="/home/kabir/project/stand_mdls/"
 

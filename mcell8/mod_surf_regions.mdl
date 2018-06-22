@@ -1,40 +1,39 @@
 MODIFY_SURFACE_REGIONS
 {
-  boxes.box_000[ALL]
+  b1_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  boxes.box_001[ALL]
+  b1_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  boxes.box_010[ALL]
+  b0_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  boxes.box_011[ALL]
+  b0_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  boxes.box_100[ALL]
+  b0_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  boxes.box_101[ALL]
+  b0_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  boxes.box_110[ALL]
+  b1_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  boxes.box_111[ALL]
+  b1_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  boxes.big_box[ALL]
+  big_box[ALL]
   {
     SURFACE_CLASS = refl
   }
 }
-

@@ -1,38 +1,40 @@
 ITERATIONS = 1000
-TIME_STEP = 1e-6
+TIME_STEP = 1e-06
 VACANCY_SEARCH_DISTANCE = 10
 
 INCLUDE_FILE = "initialization.mdl"
+
 INCLUDE_FILE = "molecules.mdl"
+
 INCLUDE_FILE = "surface_classes.mdl"
 
-INCLUDE_FILE = "geometry8.mdl"
+INCLUDE_FILE = "geometry.mdl"
+
 INCLUDE_FILE = "mod_surf_regions.mdl"
 
-INSTANTIATE mfb OBJECT
+INSTANTIATE Scene OBJECT
 {
-  boxes OBJECT boxes {}
+  b1_1_0 OBJECT b1_1_0 {}
+  b1_1_1 OBJECT b1_1_1 {}
+  b0_0_0 OBJECT b0_0_0 {}
+  b0_0_1 OBJECT b0_0_1 {}
+  b0_1_1 OBJECT b0_1_1 {}
+  b0_1_0 OBJECT b0_1_0 {}
+  b1_0_1 OBJECT b1_0_1 {}
+  b1_0_0 OBJECT b1_0_0 {}
+  big_box OBJECT big_box {}
 
-  /*relBig RELEASE_SITE
+  release RELEASE_SITE
   {
-   SHAPE = mfb.boxes.big_box
+   SHAPE = Scene.b0_0_0
    MOLECULE = Ca
-   CONCENTRATION = 1e-7
-   RELEASE_PROBABILITY = 1
-  }*/
-
-  relCa RELEASE_SITE
-  {
-   SHAPE = mfb.boxes.box_000
-   MOLECULE = Ca
-   CONCENTRATION = 1000e-6
+   CONCENTRATION = 10e-6
    RELEASE_PROBABILITY = 1
   }
-
 }
 
 sprintf(seed,"%05g",SEED)
 
-//INCLUDE_FILE = "viz_output.mdl"
-INCLUDE_FILE = "rxn_output.mdl"
+INCLUDE_FILE = "viz_output.mdl"
 
+INCLUDE_FILE = "rxn_output.mdl"

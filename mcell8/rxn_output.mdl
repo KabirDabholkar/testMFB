@@ -1,12 +1,13 @@
 REACTION_DATA_OUTPUT
 {
-  STEP=1e-5
-  {COUNT[Ca, mfb.boxes.box_000]} =>  "./react_data/seed_" & seed & "/0-0-0.dat"
-  {COUNT[Ca, mfb.boxes.box_001]} =>  "./react_data/seed_" & seed & "/0-0-1.dat"
-  {COUNT[Ca, mfb.boxes.box_010]} =>  "./react_data/seed_" & seed & "/0-1-0.dat"
-  {COUNT[Ca, mfb.boxes.box_011]} =>  "./react_data/seed_" & seed & "/0-1-1.dat"
-  {COUNT[Ca, mfb.boxes.box_100]} =>  "./react_data/seed_" & seed & "/1-0-0.dat"
-  {COUNT[Ca, mfb.boxes.box_101]} =>  "./react_data/seed_" & seed & "/1-0-1.dat"
-  {COUNT[Ca, mfb.boxes.box_110]} =>  "./react_data/seed_" & seed & "/1-1-0.dat"
-  {COUNT[Ca, mfb.boxes.box_111]} =>  "./react_data/seed_" & seed & "/1-1-1.dat"
+  STEP=1e-04
+  {COUNT[Ca,Scene.b1_1_0]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b1_1_0.dat"
+  {COUNT[Ca,Scene.b1_1_1]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b1_1_1.dat"
+  {COUNT[Ca,Scene.b0_0_0]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b0_0_0.dat"
+  {COUNT[Ca,Scene.b0_0_1]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b0_0_1.dat"
+  {COUNT[Ca,Scene.b0_1_1]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b0_1_1.dat"
+  {COUNT[Ca,Scene.b0_1_0]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b0_1_0.dat"
+  {COUNT[Ca,Scene.b1_0_1]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b1_0_1.dat"
+  {COUNT[Ca,Scene.b1_0_0]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b1_0_0.dat"
+  {COUNT[Ca,Scene.big_box]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/big_box.dat"
 }
