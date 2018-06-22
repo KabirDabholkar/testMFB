@@ -1,7 +1,7 @@
 VIZ_OUTPUT
 {
   MODE = CELLBLENDER
-  FILENAME = "./viz_data/seed_" & seed & "/Scene"
+  FILENAME = "/home/kabir/project/mcell100/viz_data/seed_" & seed & "/Scene"
   MOLECULES
   {
     NAME_LIST {ALL_MOLECULES}

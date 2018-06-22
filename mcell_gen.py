@@ -2,19 +2,20 @@ import box_maker as bm
 import os
 import pickle as pkl
 import numpy as np
+import init
 
-model_folder="/home/kabir/project/mcell8/"
-geom_desc_loc="/home/kabir/project/mcell8.txt"
-big_box_size=[2,2,2]
+model_folder=init.projDir+"mcell100/"
+geom_desc_loc=init.projDir+"mcell100.txt"
+big_box_size=[40,20,10]
 pklfile=os.path.join(model_folder,"all_boxes.pkl")
-stand_mdls="/home/kabir/project/stand_mdls/"
+stand_mdls="~/project/stand_mdls/"
 
 sim_time_step=1e-6
 data_time_step=1e-5
 
 bm.main(geom_desc_loc,pklfile,big_box_size)
 
-#bm.BOXES
+
 
 #initialization.mdl
 file_string='''SURFACE_GRID_DENSITY = 10000
@@ -121,7 +122,7 @@ with open(os.path.join(model_folder,'mod_surf_regions.mdl'), "w") as out_file:
 file_string='''VIZ_OUTPUT
 {
   MODE = CELLBLENDER
-  FILENAME = "./viz_data/seed_" & seed & "/Scene"
+  FILENAME = "'''+model_folder+'''viz_data/seed_" & seed & "/Scene"
   MOLECULES
   {
     NAME_LIST {ALL_MOLECULES}

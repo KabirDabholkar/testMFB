@@ -1,0 +1,1 @@
+projDir = '/home/kabir/project/'

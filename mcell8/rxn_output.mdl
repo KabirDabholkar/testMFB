@@ -1,6 +1,6 @@
 REACTION_DATA_OUTPUT
 {
-  STEP=1e-04
+  STEP=1e-05
   {COUNT[Ca,Scene.b1_1_0]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b1_1_0.dat"
   {COUNT[Ca,Scene.b1_1_1]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b1_1_1.dat"
   {COUNT[Ca,Scene.b0_0_0]} =>  "/home/kabir/project/mcell8/react_data/seed_" & seed & "/b0_0_0.dat"
