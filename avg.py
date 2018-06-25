@@ -1,5 +1,5 @@
 import numpy as np
-import os
+import os, time
 import sys
 import pickle as pkl
 
@@ -32,10 +32,13 @@ def get_volume(dat_file_name):
     box=boxes[name]
     vol=box[3]*box[4]*box[5]
     return vol
-        
+'''
+def get_data(box_name):
+    for file_name in file_names:
+'''
 data_shape=np.loadtxt(os.path.join(os.path.join(rxn_path,seed_folders[0]),file_names[0])).shape
 #print data_shape
-
+start=time.time()
 for file_name in file_names:
     avg=np.zeros(data_shape)
     for seed_folder in seed_folders:
@@ -48,3 +51,5 @@ for file_name in file_names:
     f=open(os.path.join(avg_path,file_name),'w')
     array_to_txtfile(avg,f)
     f.close()
+end=time.time()
+print (start-end)
