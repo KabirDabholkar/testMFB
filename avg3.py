@@ -3,11 +3,12 @@ import numpy as np
 import os, time
 import sys
 import pickle as pkl
+import init
 
 N_avo=6.0221409e23
 
 #set mcell directory
-dir=os.getcwd()+"/"+sys.argv[1]+"/"
+dir=init.projDir+sys.argv[1]+"/"
 
 #averaged data
 avg_path=os.path.join(dir,"Average")

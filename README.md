@@ -1,7 +1,10 @@
 Hi! Here is a list of the codes that I have written.
 
+##init.py
+Set the directory location for the project.
+
 ##Box Description to MCell model. 
-`box_maker.py` contains functions to generate a dict() of boxes which uses `'b0_0_0'` format as the key.
+`box_maker.py` contains functions to generate a dict() called BOXES which uses `'b0_0_0'` format as the key.
 The `box_maker.main(geom_desc_loc,pkl_file,big_box_size)` function reads the complete box description(.txt file), generates the dict() and dumps it into the a .pkl file.
  ###Here's how to use box_maker 
  ```shell
@@ -13,8 +16,9 @@ $ python
 >>> bm.BOXES['b0_0_0']
 array([0.     , 0.     , 0.     , 0.04995, 0.04995, 0.04995])
 ```
+The elements of BOXES are numpy arrays containing corner-coordinates and dimensions of the box `[x y z sx sy sz]` in micrometers.   
 
-`mcell_gen.py` import `box_maker.py` and writes all the `.mdl` files for the MCell model using the given box geometry. By default it uses '`b0_0_0'` as the release site. At the top of `mcell_gen.py` you need to specify a couple of details as per your requirements of the MCell model.
+`mcell_gen.py` imports `box_maker.py` and writes all the `.mdl` files for the MCell model using the given box geometry. By default it uses '`b0_0_0'` as the release site. At the top of `mcell_gen.py` you need to specify a couple of details as per your requirements of the MCell model.
 The `all_boxes.pkl` is stored in the corresponding model folder.
 
 ##run.sh
