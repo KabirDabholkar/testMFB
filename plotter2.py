@@ -4,9 +4,9 @@ import os
 import sys
 import init
 
-
-mcell_loc=init.projDir+"mcell100/Average/b1_0_0.dat"
-ode_loc=init.projDir+"ode/data100/trial/1-0-0.txt"
+fname = sys.argv[1]
+mcell_loc=init.projDir+"mcell100/Average/b" + fname.replace('-','_') +".dat"
+ode_loc=init.projDir+"ode/data100/trial/"+ fname + ".txt"
 
 plt.close('all')
 mcell_data=np.loadtxt(mcell_loc)

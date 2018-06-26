@@ -1,3 +1,4 @@
+from multiprocessing import Pool
 import numpy as np
 import os, time
 import sys
@@ -45,7 +46,7 @@ def get_data(box_name):
 #print data_shape
 start=time.time()
 times=np.loadtxt(os.path.join(os.path.join(rxn_path,seed_folders[0]),file_names[0])).T[0]
-for file_name in file_names:
+def evaluate(file_name):
     data=get_data(file_name)
     avg=np.average(data,axis=0)
     std=np.std(data,axis=0)
@@ -55,6 +56,10 @@ for file_name in file_names:
     f=open(os.path.join(avg_path,file_name),'w')
     array_to_txtfile(np.stack([times,avg,std],axis=-1),f)
     f.close()
+
+p = Pool(processes=4)
+p.map(evaluate, file_names)
+
 end=time.time()
 print (end-start)
 

@@ -1,3278 +1,30 @@
 MODIFY_SURFACE_REGIONS
 {
-  b14_2_0[ALL]
+  b7_15_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_2_1[ALL]
+  b3_17_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_2_2[ALL]
+  b3_17_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b23_6_0[ALL]
+  b1_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b23_6_1[ALL]
+  b3_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b23_4_0[ALL]
+  b1_22_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b23_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_0_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_15_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_10_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_5_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_15_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_0_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_15_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_10_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_10_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_10_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_10_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_15_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_15_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_5_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_10_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_15_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_15_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_5_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_5_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_0_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_15_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_10_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_0_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_14_1[ALL]
+  b3_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -3288,33 +40,33 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b16_8_1[ALL]
+  b13_21_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b16_8_2[ALL]
+  b13_21_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b16_8_3[ALL]
+  b13_21_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_2_0[ALL]
+  b7_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_2_1[ALL]
+  b14_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_2_2[ALL]
+  b2_14_6[ALL]
   {
     SURFACE_CLASS = transp
   }
-  big_box[ALL]
+  b0_13_0[ALL]
   {
-    SURFACE_CLASS = refl
+    SURFACE_CLASS = transp
   }
   b11_3_0[ALL]
   {
@@ -3324,2115 +76,15 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b21_0_0[ALL]
+  b11_3_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b21_0_1[ALL]
+  b7_1_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_5_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b38_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b38_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_10_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b38_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b38_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b20_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_15_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b23_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b28_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b10_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_5_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b2_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b21_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_0_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b18_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_0_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_5_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_10_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b19_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b13_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b4_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b5_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_5_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_5_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b34_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b6_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b9_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_15_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_1_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_1_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_9_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b31_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_16_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b22_16_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_14_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_15_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_10_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b33_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_19_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_12_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_12_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_15_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b0_15_7[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_10_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_10_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_12_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b12_12_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b3_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_6_1[ALL]
+  b19_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5448,11 +100,27 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
+  b21_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
   b3_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b3_19_1[ALL]
+  b0_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_15_2[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5460,27 +128,63 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b8_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
   b7_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b30_18_0[ALL]
+  b11_11_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b30_18_1[ALL]
+  b11_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b30_18_2[ALL]
+  b7_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_13_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5492,15 +196,23 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b33_19_1[ALL]
+  b9_1_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b12_16_2[ALL]
+  b16_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b12_16_3[ALL]
+  b5_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5508,11 +220,27 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b12_16_1[ALL]
+  b4_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_2_1[ALL]
+  b11_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5524,11 +252,15 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b35_14_1[ALL]
+  b17_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_2_0[ALL]
+  b16_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_19_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5536,19 +268,27 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b12_10_1[ALL]
+  b13_21_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b12_10_2[ALL]
+  b4_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b35_14_0[ALL]
+  b3_11_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b12_10_5[ALL]
+  b13_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_17_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5560,51 +300,99 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b19_8_1[ALL]
+  b11_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_2_1[ALL]
+  b11_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_2_0[ALL]
+  b7_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_2_2[ALL]
+  b11_1_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_4_3[ALL]
+  b9_1_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_4_2[ALL]
+  b10_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_4_1[ALL]
+  b23_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_4_0[ALL]
+  b21_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_6_1[ALL]
+  b19_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_6_0[ALL]
+  b19_7_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_6_2[ALL]
+  big_box[ALL]
+  {
+    SURFACE_CLASS = refl
+  }
+  b10_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b10_14_2[ALL]
+  b21_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_13_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_19_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_1_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_14_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_6_9[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5612,31 +400,123 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b10_14_1[ALL]
+  b4_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b33_11_0[ALL]
+  b15_1_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b33_11_1[ALL]
+  b17_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b33_13_0[ALL]
+  b1_3_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b33_13_1[ALL]
+  b7_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b33_15_0[ALL]
+  b19_21_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b33_15_1[ALL]
+  b1_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_1_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_1_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_2_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_2_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5644,19 +524,27 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b10_12_1[ALL]
+  b18_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b10_12_2[ALL]
+  b17_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b10_12_3[ALL]
+  b12_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b10_10_2[ALL]
+  b2_2_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5664,11 +552,19 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b10_10_1[ALL]
+  b18_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b10_10_7[ALL]
+  b2_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_19_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5676,79 +572,347 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b10_16_1[ALL]
+  b6_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b10_16_2[ALL]
+  b1_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b10_16_3[ALL]
+  b2_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_18_2[ALL]
+  b11_5_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_18_0[ALL]
+  b2_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_18_1[ALL]
+  b2_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_2_2[ALL]
+  b18_14_6[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_18_2[ALL]
+  b2_6_6[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b35_10_1[ALL]
+  b23_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b35_10_0[ALL]
+  b1_5_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_11_0[ALL]
+  b11_5_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_11_1[ALL]
+  b7_22_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_1_0[ALL]
+  b9_21_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_1_1[ALL]
+  b1_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b5_2_0[ALL]
+  b2_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_3_0[ALL]
+  b9_21_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_3_1[ALL]
+  b9_21_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b6_0_2[ALL]
+  b21_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b8_11_1[ALL]
+  b8_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_19_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_1_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_17_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_11_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_21_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_1_7[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_3_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_3_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_3_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_1_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_5_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_5_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_2_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_1_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_1_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_1_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_23_10[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_18_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_11_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_1_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_2_6[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5756,23 +920,31 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b6_0_3[ALL]
+  b19_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b35_19_0[ALL]
+  b13_5_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_15_0[ALL]
+  b7_5_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_15_1[ALL]
+  b16_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b8_17_1[ALL]
+  b22_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -5780,295 +952,27 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b8_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
   b8_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b8_15_5[ALL]
+  b18_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_13_0[ALL]
+  b17_19_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_13_1[ALL]
+  b17_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_9_0[ALL]
+  b16_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_9_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b30_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b37_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_11_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_11_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b36_15_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_2_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_2_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_18_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_18_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_18_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_4_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_4_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_4_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_4_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_17_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_13_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b26_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_15_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_15_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_8_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_8_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_15_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_0_3[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_0_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_0_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b24_0_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_6_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b8_6_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b35_8_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_17_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b16_17_0[ALL]
+  b18_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6076,43 +980,827 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b8_4_1[ALL]
+  b18_10_9[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b8_4_2[ALL]
+  b18_6_6[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b8_4_3[ALL]
+  b18_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_19_0[ALL]
+  b11_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_19_1[ALL]
+  b17_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_3_0[ALL]
+  b17_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_3_1[ALL]
+  b17_17_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_1_0[ALL]
+  b21_19_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_1_1[ALL]
+  b4_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b16_11_1[ALL]
+  b6_18_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_2_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_18_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_1_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_18_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_11_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_5_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_13_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_2_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_13_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_19_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_15_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_5_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_15_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_13_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_13_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_1_10[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_18_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_1_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_19_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_11_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_11_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_6_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_10_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_10_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_3_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_3_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_3_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_1_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_10_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_19_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_13_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_1_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_15_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_21_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_11_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_23_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_18_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_17_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_14_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_1_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_1_7[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_5_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_3_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_9_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_6_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_17_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_18_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_0_13[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_11_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_13_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_21_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_11_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_17_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_17_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_6_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_19_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_19_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_19_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_19_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_10_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_15_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_5_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6120,59 +1808,63 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b26_7_0[ALL]
+  b15_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b26_7_1[ALL]
+  b2_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_13_1[ALL]
+  b1_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_13_0[ALL]
+  b1_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_11_1[ALL]
+  b1_17_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_11_0[ALL]
+  b12_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_9_0[ALL]
+  b23_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_9_1[ALL]
+  b3_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_17_1[ALL]
+  b19_9_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_17_0[ALL]
+  b8_22_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_16_3[ALL]
+  b3_9_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_16_2[ALL]
+  b3_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_16_1[ALL]
+  b3_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_16_0[ALL]
+  b3_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_9_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6180,59 +1872,199 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b23_18_1[ALL]
+  b9_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_10_1[ALL]
+  b6_14_9[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_10_0[ALL]
+  b13_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_10_2[ALL]
+  b9_17_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_10_5[ALL]
+  b11_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_12_3[ALL]
+  b14_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_12_2[ALL]
+  b9_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_12_1[ALL]
+  b9_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_12_0[ALL]
+  b9_13_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b28_8_1[ALL]
+  b9_13_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b4_15_5[ALL]
+  b9_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_14_1[ALL]
+  b22_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_14_0[ALL]
+  b8_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b24_14_2[ALL]
+  b7_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_9_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_18_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_3_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_11_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_13_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_19_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_9_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_3_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_13_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_13_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_18_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_17_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_17_2[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6240,7 +2072,7 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b19_17_1[ALL]
+  b22_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6248,15 +2080,11 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b0_0_3[ALL]
+  b0_0_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b0_0_5[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_4_0[ALL]
+  b0_0_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6264,11 +2092,7 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b29_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b29_6_1[ALL]
+  b19_19_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6280,43 +2104,143 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b29_8_0[ALL]
+  b19_19_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_8_1[ALL]
+  b19_1_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_9_1[ALL]
+  b19_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_9_0[ALL]
+  b19_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b19_11_0[ALL]
+  b9_9_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b19_11_1[ALL]
+  b19_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_1_1[ALL]
+  b0_23_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_1_0[ALL]
+  b19_3_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_3_1[ALL]
+  b19_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_3_0[ALL]
+  b19_3_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_3_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_5_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_5_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_5_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_11_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_17_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6324,7 +2248,19 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b0_4_3[ALL]
+  b14_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_2_9[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6336,7 +2272,15 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b14_19_1[ALL]
+  b9_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6344,31 +2288,39 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b32_19_1[ALL]
+  b16_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_19_0[ALL]
+  b13_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b19_15_0[ALL]
+  b14_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b19_15_1[ALL]
+  b0_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_0_0[ALL]
+  b5_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_0_1[ALL]
+  b3_21_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_17_1[ALL]
+  b5_5_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_5_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6376,27 +2328,35 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b6_6_2[ALL]
+  b0_22_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_15_1[ALL]
+  b0_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_15_0[ALL]
+  b11_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_2_0[ALL]
+  b7_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_2_1[ALL]
+  b12_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b23_11_1[ALL]
+  b12_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6404,23 +2364,63 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_4_3[ALL]
+  b17_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_4_2[ALL]
+  b3_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_4_1[ALL]
+  b3_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_4_0[ALL]
+  b3_3_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b23_13_1[ALL]
+  b15_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_9_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_17_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_5_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6428,7 +2428,31 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_6_1[ALL]
+  b12_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_3_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_13_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6436,27 +2460,47 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b25_5_1[ALL]
+  b6_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_6_2[ALL]
+  b11_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_5_7[ALL]
+  b4_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_8_3[ALL]
+  b5_1_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_8_2[ALL]
+  b12_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_8_1[ALL]
+  b5_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_1_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_1_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6464,19 +2508,43 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b25_7_1[ALL]
+  b6_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_7_0[ALL]
+  b14_6_6[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_1_1[ALL]
+  b9_15_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b5_14_1[ALL]
+  b4_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_9_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_9_2[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6484,15 +2552,7 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b5_16_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
   b5_16_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b15_8_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6500,15 +2560,15 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_0_3[ALL]
+  b1_3_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_0_2[ALL]
+  b10_2_9[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_0_1[ALL]
+  b6_6_9[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6516,7 +2576,7 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_0_7[ALL]
+  b18_14_9[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6524,11 +2584,35 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_0_5[ALL]
+  b14_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b23_17_1[ALL]
+  b15_21_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_1_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6536,19 +2620,95 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_2_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
   b20_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_2_2[ALL]
+  b3_1_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b5_10_1[ALL]
+  b15_11_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_1_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_14_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_15_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_15_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_1_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_19_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_22_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_9_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6556,11 +2716,19 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b5_10_7[ALL]
+  b22_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b5_12_1[ALL]
+  b20_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_11_2[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6568,11 +2736,7 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b25_13_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b25_13_0[ALL]
+  b22_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6592,23 +2756,31 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b18_2_1[ALL]
+  b7_17_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_12_2[ALL]
+  b13_13_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_12_3[ALL]
+  b13_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_12_0[ALL]
+  b1_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_12_1[ALL]
+  b13_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_1_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6628,31 +2800,55 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b34_14_0[ALL]
+  b13_11_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_14_1[ALL]
+  b13_11_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_14_2[ALL]
+  b13_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_11_1[ALL]
+  b22_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_11_0[ALL]
+  b1_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_18_0[ALL]
+  b1_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b29_18_1[ALL]
+  b13_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_17_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_17_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_17_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_6_6[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6664,23 +2860,51 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b2_10_2[ALL]
+  b15_3_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_7_0[ALL]
+  b15_3_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_7_1[ALL]
+  b8_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_5_0[ALL]
+  b10_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_5_1[ALL]
+  b17_3_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_3_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_23_7[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_1_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_1_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6688,19 +2912,23 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_17_1[ALL]
+  b21_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_17_1[ALL]
+  b4_22_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_17_0[ALL]
+  b20_19_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_9_1[ALL]
+  b17_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_23_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6716,35 +2944,31 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b15_5_1[ALL]
+  b3_1_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_15_7[ALL]
+  b7_19_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b15_5_7[ALL]
+  b10_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_10_0[ALL]
+  b17_21_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_10_1[ALL]
+  b17_21_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_10_2[ALL]
+  b17_21_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_8_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_10_1[ALL]
+  b6_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6752,7 +2976,91 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b2_10_1[ALL]
+  b15_13_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_17_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_9_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_0_10[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_9_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_19_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_18_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6760,23 +3068,83 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b22_9_1[ALL]
+  b12_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_0_1[ALL]
+  b2_10_6[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_0_0[ALL]
+  b14_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_16_2[ALL]
+  b16_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_0_2[ALL]
+  b3_19_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_9_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_15_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_15_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b4_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_10_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_19_2[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6788,19 +3156,55 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b32_14_2[ALL]
+  b15_9_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_14_0[ALL]
+  b5_19_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_14_1[ALL]
+  b5_7_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b7_14_1[ALL]
+  b20_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_9_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_11_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6808,23 +3212,19 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b34_17_1[ALL]
+  b7_23_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_17_0[ALL]
+  b13_11_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_19_1[ALL]
+  b6_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_19_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b7_12_1[ALL]
+  b12_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6832,19 +3232,31 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b14_14_2[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
   b14_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_14_1[ALL]
+  b14_14_6[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_4_1[ALL]
+  b6_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b14_14_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_16_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6852,91 +3264,135 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b14_12_0[ALL]
+  b0_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_12_1[ALL]
+  b11_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_12_2[ALL]
+  b19_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_12_3[ALL]
+  b23_1_10[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_12_0[ALL]
+  b5_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_12_1[ALL]
+  b5_17_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_12_2[ALL]
+  b5_17_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_12_3[ALL]
+  b9_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_4_1[ALL]
+  b5_17_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_4_0[ALL]
+  b15_9_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_4_3[ALL]
+  b15_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_4_2[ALL]
+  b13_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_10_2[ALL]
+  b14_10_9[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_10_0[ALL]
+  b6_23_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_10_1[ALL]
+  b20_1_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b32_10_5[ALL]
+  b9_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_2_2[ALL]
+  b14_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_2_1[ALL]
+  b14_10_6[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b22_2_0[ALL]
+  b10_10_9[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_10_5[ALL]
+  b0_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_10_7[ALL]
+  b20_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_10_1[ALL]
+  b23_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b2_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_11_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_11_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_11_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6944,19 +3400,27 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_10_2[ALL]
+  b5_11_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_12_3[ALL]
+  b10_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_12_2[ALL]
+  b9_8_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_12_1[ALL]
+  b2_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_9_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_13_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6964,7 +3428,27 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b11_0_1[ALL]
+  b7_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_13_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_13_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_21_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -6972,31 +3456,51 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b20_14_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
   b20_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b34_1_0[ALL]
+  b5_15_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b20_14_2[ALL]
+  b1_3_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_19_0[ALL]
+  b5_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_19_1[ALL]
+  b5_15_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_12_1[ALL]
+  b11_19_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_19_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_0_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_9_4[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7004,7 +3508,19 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b11_14_1[ALL]
+  b7_9_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7012,67 +3528,39 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b38_12_3[ALL]
+  b22_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b38_12_0[ALL]
+  b15_6_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_16_1[ALL]
+  b3_12_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b11_16_0[ALL]
+  b10_23_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b17_2_1[ALL]
+  b4_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b17_2_0[ALL]
+  b15_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b38_16_3[ALL]
+  b15_2_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b38_16_0[ALL]
+  b9_7_1[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b27_3_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b27_3_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_10_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b11_10_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_7_1[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b14_7_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b32_6_0[ALL]
-  {
-    SURFACE_CLASS = transp
-  }
-  b17_8_1[ALL]
+  b3_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7080,7 +3568,163 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b14_1_1[ALL]
+  b11_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_17_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_4_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_8_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_9_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_14_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_3_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_3_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_3_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b20_18_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_13_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_21_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_21_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_6_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b23_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_21_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_21_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_22_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b19_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7088,19 +3732,75 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b25_18_0[ALL]
+  b17_7_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b25_18_1[ALL]
+  b14_4_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b27_9_1[ALL]
+  b8_0_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b27_9_0[ALL]
+  b22_3_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b17_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b5_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_5_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b10_11_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_5_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_1_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b16_21_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_9_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_5_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_17_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_14_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7112,11 +3812,31 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b31_14_1[ALL]
+  b17_5_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b31_14_0[ALL]
+  b17_5_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_15_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_1_6[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_7_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_16_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_9_2[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7124,11 +3844,47 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b11_9_1[ALL]
+  b12_17_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_5_1[ALL]
+  b11_9_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_2_9[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_10_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_21_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_3_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b18_23_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b1_1_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_9_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7136,19 +3892,63 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b38_0_0[ALL]
+  b17_17_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b38_0_3[ALL]
+  b21_9_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_8_2[ALL]
+  b9_3_2[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b14_8_3[ALL]
+  b21_1_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b15_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b7_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b21_2_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b0_17_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_3_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_17_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b13_13_1[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_7_2[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_7_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b22_18_0[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7156,19 +3956,47 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b14_8_1[ALL]
+  b11_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b31_12_1[ALL]
+  b5_13_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b31_12_0[ALL]
+  b5_20_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b37_18_1[ALL]
+  b21_1_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b11_7_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b6_20_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_5_4[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b12_19_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b8_12_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_5_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b9_5_1[ALL]
   {
     SURFACE_CLASS = transp
   }
@@ -7176,39 +4004,43 @@ MODIFY_SURFACE_REGIONS
   {
     SURFACE_CLASS = transp
   }
-  b17_7_1[ALL]
+  b23_5_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b31_10_1[ALL]
+  b0_15_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b31_10_0[ALL]
+  b5_22_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b31_16_1[ALL]
+  b9_3_4[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b31_16_0[ALL]
+  b8_7_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_8_2[ALL]
+  b8_10_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_8_3[ALL]
+  b9_3_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_8_0[ALL]
+  b3_14_0[ALL]
   {
     SURFACE_CLASS = transp
   }
-  b36_8_1[ALL]
+  b21_6_0[ALL]
+  {
+    SURFACE_CLASS = transp
+  }
+  b3_13_2[ALL]
   {
     SURFACE_CLASS = transp
   }

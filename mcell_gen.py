@@ -6,7 +6,7 @@ import init
 
 model_folder=init.projDir+"mcell100/"
 geom_desc_loc=init.projDir+"mcell100.txt"
-big_box_size=[40,20,10]
+big_box_size=[24,24,14]
 pklfile=os.path.join(model_folder,"all_boxes.pkl")
 stand_mdls="~/project/stand_mdls/"
 

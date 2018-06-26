@@ -80,11 +80,11 @@ def read_desc(geometry_file_location):
             unit=float(line[5:])*1e-3
             lines.pop()
     file.close()
-    return lines
+    return lines,unit
 
 
 #creates all boxes including big box
-def create_all_boxes(lines,big_box_size):
+def create_all_boxes(lines,big_box_size, unit):
     for line in lines:
     	boxes=gen_boxes(line)
         for box in boxes:
@@ -102,5 +102,7 @@ def dump_pkl(pklfilename):
     DATA_FILE.close()
 
 def main(geom_desc_loc,pkl_file,big_box_size):
-    create_all_boxes(read_desc(geom_desc_loc),big_box_size)
+    lines,unit=read_desc(geom_desc_loc)
+    #print unit
+    create_all_boxes(lines,big_box_size,unit)
     dump_pkl(pkl_file)
