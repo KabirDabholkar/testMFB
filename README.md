@@ -19,9 +19,22 @@ The `all_boxes.pkl` is stored in the corresponding model folder.
 
 ##run.sh
 This short bash script runs the mcell model for a number of diffent seeds.
-It takes `100` as in mcell100 as the first argument and `128` as in 128 seeds as the second argument.
+It takes `8` as in mcell8 as the first argument and `128` as in 128 seeds as the second argument.
 ###Here's how to use run.sh
 ```shell
-$ ./run.sh 100 128
+$ ./run.sh 8 128
 ```
 
+At this point all the reaction data is stored `/react_data/` in the corresponding seed folders.
+
+##avg3.py
+This is the fastest code to obtain average and standard deviation of the MCell data so far. It parellels the tasks. It takes the model name for example, `8` for mcell8 as an argument.
+```shell
+$ python avg3.py 8
+```
+
+##plotter2.py
+This code produces a matplotlib plot comparing the concentration vs time graphs according the mcell model and the ode model for a particular box in the geometry. It plots the average MCell concentrations +/- standard deviations. It takes the model name and box name as arguments.
+```shell
+$ python plotter2.py 8 0-0-0
+```

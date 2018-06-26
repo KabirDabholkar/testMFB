@@ -6,7 +6,7 @@ import pickle as pkl
 N_avo=6.0221409e23
 
 #set mcell directory
-dir=os.getcwd()+"/"+sys.argv[1]+"/"
+dir=os.getcwd()+"/mcell"+sys.argv[1]+"/"
 
 #averaged data
 avg_path=os.path.join(dir,"Average")
