@@ -1,6 +1,6 @@
 Hi! Here's what you need to know
 ### init.py
-Set the directory location for the project.
+You can set the directory location for the project here.
 
 ### box_maker.py and mcell_gen.py 
 `box_maker.py` contains functions to generate a dict() called BOXES which uses `'b0_0_0'` format as the key.
