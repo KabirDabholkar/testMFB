@@ -21,7 +21,7 @@ The elements of BOXES are numpy arrays containing corner-coordinates and dimensi
 The `all_boxes.pkl` is stored in the corresponding model folder.
 
 ### run.sh
-This short bash script runs the mcell model for a number of diffent seeds.
+This short bash script runs the mcell model for a number of diffent seeds and does the averaging (`avg3.py`).
 It takes `8` as in mcell8 as the first argument and `128` as in 128 seeds as the second argument.
 ```shell
 $ ./run.sh 8 128
