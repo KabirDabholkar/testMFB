@@ -44,7 +44,7 @@ def get_data(box_name):
 
 #data_shape=np.loadtxt(os.path.join(os.path.join(rxn_path,seed_folders[0]),file_names[0])).shape
 #print data_shape
-start=time.time()
+#start=time.time()
 times=np.loadtxt(os.path.join(os.path.join(rxn_path,seed_folders[0]),file_names[0])).T[0]
 def evaluate(file_name):
     data=get_data(file_name)
@@ -60,7 +60,7 @@ def evaluate(file_name):
 p = Pool(processes=16)
 p.map(evaluate, file_names)
 
-end=time.time()
-print (end-start)
+#end=time.time()
+#print (end-start)
 
 
