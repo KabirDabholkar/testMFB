@@ -39,7 +39,7 @@ def get_data(box_name):
     data=[]
     for seed_folder in seed_folders:
         folder_path=os.path.join(rxn_path,seed_folder)
-        data.append(np.loadtxt(os.path.join(folder_path,file_name)).T[1])
+        data.append(np.loadtxt(os.path.join(folder_path,box_name)).T[1])
     return np.array(data)
 
 #data_shape=np.loadtxt(os.path.join(os.path.join(rxn_path,seed_folders[0]),file_names[0])).shape
@@ -57,7 +57,7 @@ def evaluate(file_name):
     array_to_txtfile(np.stack([times,avg,std],axis=-1),f)
     f.close()
 
-p = Pool(processes=4)
+p = Pool(processes=16)
 p.map(evaluate, file_names)
 
 end=time.time()
