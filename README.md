@@ -1,4 +1,4 @@
-Hi! Here's what you need to know
+Hi! Here's what you need to know.
 ### init.py
 You can set the directory location for the project here.
 
@@ -30,7 +30,7 @@ $ ./run.sh 8 128
 At this point all the reaction data is stored `/react_data/` in the corresponding seed folders.
 
 ### avg3.py
-This is the fastest code to obtain average and standard deviation of the MCell data so far. It parellels the tasks. It takes the model name for example, `8` for mcell8 as an argument.
+As of now this is the fastest code to obtain average and standard deviation of the MCell data so far. It parellels the tasks. It takes the model name for example, `8` for mcell8 as an argument.
 ```shell
 $ python avg3.py 8
 ```
